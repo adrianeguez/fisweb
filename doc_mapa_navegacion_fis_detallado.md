@@ -256,3 +256,187 @@ Regla de lectura:
 ## 8) Estado del documento
 - Documento creado a partir de la navegacion ya verificada con Playwright y de los lotes del crawler revisados en esta sesion.
 - Listo para seguir ampliandose con tercer nivel si quieres que documentemos cada subpagina de cada rama.
+
+## 9) Indice final de paginas principales y enlaces disponibles
+Este indice resume, para cada pagina principal ya documentada, que se muestra y que tipos de enlaces disponibles fueron observados.
+
+### 9.1) Pagina raiz
+**Pagina:** [La Facultad de Ingenieria de Sistemas](https://fis.epn.edu.ec/index.php/es/you-will-love-our-school)
+
+**Resumen:** pagina de entrada del sitio. Presenta la mision institucional de la FIS y funciona como hub de navegacion a todas las ramas principales.
+
+**Enlaces disponibles:**
+- Enlaces internos de menu: `INICIO`, `LA FACULTAD`, `PREGRADO`, `POSGRADO`, `INVESTIGACION`, `REVISTA LAJC`
+- Enlaces rapidos: `Estudiante`, `Docente`
+- Controles de fuente
+- Enlaces externos: `Facebook`, `Joomla Templates`
+
+### 9.2) Estructura organica
+**Pagina:** [Estructura orgánica](https://fis.epn.edu.ec/index.php/es/la-facultad/estructura-organica)
+
+**Resumen:** presenta mision, vision y autoridades de la FIS, con foco en la organizacion interna.
+
+**Enlaces disponibles:**
+- Enlaces internos al resto de la Facultad
+- Enlaces a perfiles de autoridades y docentes
+
+### 9.3) Planta docente
+**Pagina:** [Planta docente](https://fis.epn.edu.ec/index.php/es/la-facultad/planta-docentes)
+
+**Resumen:** directorio paginado de docentes con acceso a fichas individuales.
+
+**Enlaces disponibles:**
+- Paginacion (`start=10`, `start=20`, `start=30`, `start=40`, `start=50`)
+- Enlaces a fichas de docentes
+- Enlaces de correo `mailto:`
+- Enlaces `ORCID`
+- Enlaces `Scopus` y `DOI` dentro de perfiles individuales
+
+### 9.4) Departamento de Informatica y Ciencias de la Computacion
+**Pagina:** [Departamento de Informática y Ciencias de la Computación](https://fis.epn.edu.ec/index.php/es/la-facultad/departamento-de-informatica-y-ciencias-de-la-computacion)
+
+**Resumen:** pagina madre de la oferta academica y de investigacion del DICC.
+
+**Enlaces disponibles:**
+- `Planta docente`
+- `Líneas Prioritarias de Investigación`
+- `Grupos de investigación`
+- `Proyectos de investigación`
+- `Proyectos de vinculación y proyección social`
+
+### 9.5) Laboratorios de Docencia
+**Pagina:** [Laboratorios de Docencia](https://fis.epn.edu.ec/index.php/es/la-facultad/laboratorios)
+
+**Resumen:** listado de laboratorios docentes con fichas y descripciones cortas.
+
+**Enlaces disponibles:**
+- Enlaces a cada laboratorio individual
+- Enlace de regreso a la ficha del laboratorio madre
+
+### 9.6) Laboratorios de investigacion
+**Pagina:** [Laboratorios de investigación](https://fis.epn.edu.ec/index.php/es/la-facultad/laboratorios-de-investigacion)
+
+**Resumen:** pagina madre de laboratorios de investigacion.
+
+**Enlaces disponibles:**
+- Navegacion interna hacia laboratorios y secciones de la Facultad
+
+### 9.7) Gestion de Transferencia Tecnologica
+**Pagina:** [Gestión de Transferencia Tecnológica](https://fis.epn.edu.ec/index.php/es/la-facultad/gestion-de-transferencia-tecnologica)
+
+**Resumen:** portal de transferencia tecnologica con objetivo institucional, noticias y fortalezas.
+
+**Enlaces disponibles:**
+- `Centro de Medios`
+- `Eventos Organizados`
+- `Fortalezas Internas`
+- `Equipo`
+- `Contacto GTTT`
+- Enlaces a notas y paginas internas de transferencia
+
+### 9.8) Centro de Medios
+**Pagina:** [Centro de Medios](https://fis.epn.edu.ec/index.php/es/la-facultad/gestion-de-transferencia-tecnologica/centro-de-medios)
+
+**Resumen:** seccion multimedia con podcasts y contenido audiovisual.
+
+**Enlaces disponibles:**
+- Recurso multimedia embebido
+- Contenido asociado a podcasts
+
+### 9.9) Pregrado
+**Pagina madre:** `PREGRADO`
+
+**Resumen:** agrupacion de carreras/programas de pregrado.
+
+**Hijos visibles:**
+- [Software](https://fis.epn.edu.ec/index.php/es/oferta-academicafis/software)
+- [Computación](https://fis.epn.edu.ec/index.php/es/oferta-academicafis/computacion)
+- [Ciencia de Datos e Inteligencia Artificial](https://fis.epn.edu.ec/index.php/es/oferta-academicafis/ciencia-de-datos-e-inteligencia-artificial)
+- [Sistemas de Información](https://fis.epn.edu.ec/index.php/es/oferta-academicafis/sistemas-de-informacion)
+- `Ciberseguridad (En propuesta)`
+
+**Enlaces disponibles:**
+- Enlaces a cada oferta academica
+- Enlaces de navegacion a paginas relacionadas de la Facultad
+
+### 9.10) Posgrado
+**Pagina madre:** `POSGRADO`
+
+**Resumen:** agrupa los programas de maestria y doctorado.
+
+**Hijos visibles:**
+- [Maestría en Inteligencia Artificial](https://fis.epn.edu.ec/index.php/es/maestrias/maestria-en-inteligencia-artificial-art)
+- [Maestría en Ciberseguridad](https://fis.epn.edu.ec/index.php/es/maestrias/maestria-en-ciberseguridad)
+- [Maestría en Tecnología e Innovación Educativa](https://fis.epn.edu.ec/index.php/es/maestrias/maestria-en-tecnologia-e-innovacion-educativa)
+- [Doctorado en Informática](https://fis.epn.edu.ec/index.php/es/maestrias/doctorado-en-informatica)
+
+**Enlaces disponibles:**
+- Enlaces a programas externos e internos
+- Sitio web externo del doctorado
+- Formularios o accesos de postulación donde aplique
+
+### 9.11) Doctorado en Informatica
+**Pagina:** [Doctorado en Informática](https://fis.epn.edu.ec/index.php/es/maestrias/doctorado-en-informatica)
+
+**Resumen:** pagina institucional del doctorado, con descripcion, contacto y ubicacion.
+
+**Enlaces disponibles:**
+- `Visita el Sitio Web`
+- `Sitio Web`
+- `Facebook`
+- `mailto:` de contacto
+
+### 9.12) Maestria en Tecnologia e Innovacion Educativa
+**Pagina:** [Maestría en Tecnología e Innovación Educativa](https://fis.epn.edu.ec/index.php/es/maestrias/maestria-en-tecnologia-e-innovacion-educativa)
+
+**Resumen:** pagina del programa de maestria con convocatoria, admision, perfil de ingreso, resultados y egreso.
+
+**Enlaces disponibles:**
+- `POSTULA AQUÍ`
+- Enlaces internos a planes de estudio y recursos asociados
+
+### 9.13) Investigacion
+**Pagina madre:** `INVESTIGACION`
+
+**Resumen:** agrupa lineas, grupos, proyectos y vinculacion.
+
+**Hijos visibles:**
+- [Líneas Prioritarias de Investigación](https://fis.epn.edu.ec/index.php/es/investigacion/lineas-de-investigacion)
+- [Grupos de investigación](https://fis.epn.edu.ec/index.php/es/la-facultad/departamento-de-informatica-y-ciencias-de-la-computacion/grupos-de-investigacion)
+- [Proyectos de investigación](https://fis.epn.edu.ec/index.php/es/la-facultad/departamento-de-informatica-y-ciencias-de-la-computacion/proyectos-de-investigacion)
+- [Proyectos de vinculación y proyección social](https://fis.epn.edu.ec/index.php/es/la-facultad/departamento-de-informatica-y-ciencias-de-la-computacion/proyectos-de-vinculacion-y-proyeccion-social)
+
+### 9.14) Proyectos de investigacion
+**Pagina:** [Proyectos de investigación](https://fis.epn.edu.ec/index.php/es/la-facultad/departamento-de-informatica-y-ciencias-de-la-computacion/proyectos-de-investigacion)
+
+**Resumen:** fichas de proyectos con estructura semantica rica.
+
+**Enlaces disponibles:**
+- `OBJETIVO GENERAL`
+- `OBJETIVOS ESPECÍFICOS`
+- `RESULTADOS`
+- `Publicaciones`
+- `Presentaciones en eventos internacionales`
+- `Proyectos de titulación`
+- Enlaces externos a DOI, Springer, Scopus y revistas
+
+### 9.15) Proyectos de vinculacion y proyeccion social
+**Pagina:** [Proyectos de vinculación y proyección social](https://fis.epn.edu.ec/index.php/es/la-facultad/departamento-de-informatica-y-ciencias-de-la-computacion/proyectos-de-vinculacion-y-proyeccion-social)
+
+**Resumen:** fichas de proyectos de vinculacion con informacion de objetivo y resultados.
+
+**Enlaces disponibles:**
+- Enlaces a proyectos asociados
+- Enlaces externos de publicaciones cuando aplican
+
+### 9.16) Revista LAJC
+**Pagina:** [LAJC](https://lajc.epn.edu.ec/index.php/LAJC)
+
+**Resumen:** portal de la revista institucional.
+
+**Enlaces disponibles:**
+- Navegacion propia de la revista
+- Enlaces externos relacionados al portal editorial
+
+## 10) Nota final
+Este indice esta pensado como referencia rapida para migracion y QA. Si quieres, el siguiente paso es agregar un tercer nivel con una fila por cada subpagina concreta que ya revisamos, por ejemplo cada docente, cada proyecto y cada oferta academica.
