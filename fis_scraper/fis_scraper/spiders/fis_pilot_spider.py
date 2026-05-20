@@ -237,6 +237,13 @@ class FisPilotSpider(scrapy.Spider):
                 paragraphs.append(text)
                 seen_texts.add(text)
 
+        # Some Joomla articles store body text in div blocks under articleBody instead of <p> tags.
+        for el in selector.css("[itemprop='articleBody'] > div"):
+            text = self._visible_text(el)
+            if text and text not in seen_texts:
+                paragraphs.append(text)
+                seen_texts.add(text)
+
         for el in selector.css(".jmm-text, .camera_caption_desc"):
             text = self._visible_text(el)
             if text and text not in seen_texts:
@@ -257,9 +264,14 @@ class FisPilotSpider(scrapy.Spider):
                 h2.append(t)
                 h2_seen.add(t)
 
-        # Fix A: h3 — DJTabs sub-panel titles (sub-sections within each accordion block)
+        # Fix A: h3 — standard headings + DJTabs sub-panel titles (accordion sub-sections)
         h3_seen: set = set()
         h3 = []
+        for el in selector.css("h3"):
+            t = self._visible_text(el)
+            if t and t not in h3_seen:
+                h3.append(t)
+                h3_seen.add(t)
         for el in selector.css(".djtabs-panel-title"):
             t = self._visible_text(el)
             if t and t not in h3_seen:
