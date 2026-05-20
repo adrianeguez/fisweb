@@ -1,0 +1,105 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"label": "discovery-crawl",
+			"type": "shell",
+			"command": "cmd",
+			"args": [
+				"/c",
+				"cd fis_scraper && ..\\.venv\\Scripts\\python.exe -m scrapy crawl fis_discovery -a max_urls=1200 -a output_file=input/urls_master.txt"
+			],
+			"isBackground": false
+		},
+		{
+			"label": "discovery-quick",
+			"type": "shell",
+			"command": "cmd",
+			"args": [
+				"/c",
+				"cd fis_scraper && ..\\.venv\\Scripts\\python.exe -m scrapy crawl fis_discovery -a max_urls=350 -a output_file=input/urls_master.txt"
+			],
+			"isBackground": false
+		},
+		{
+			"label": "discovery-seed-120",
+			"type": "shell",
+			"command": "cmd",
+			"args": [
+				"/c",
+				"cd fis_scraper && ..\\.venv\\Scripts\\python.exe -m scrapy crawl fis_discovery -a max_urls=120 -a output_file=input/urls_master.txt"
+			],
+			"isBackground": false
+		},
+		{
+			"label": "pilot-batch-01-scope5",
+			"type": "shell",
+			"command": "cmd",
+			"args": [
+				"/c",
+				"cd fis_scraper && ..\\.venv\\Scripts\\python.exe -m scrapy crawl fis_pilot -a seed_file=input/urls_master.txt -a scope_limit=5 -a review_from=0 -a max_interactions=5"
+			],
+			"isBackground": false
+		},
+		{
+			"label": "pilot-batch-01-scope5-clean",
+			"type": "shell",
+			"command": "cmd",
+			"args": [
+				"/c",
+				"cd fis_scraper && ..\\.venv\\Scripts\\python.exe -m scrapy crawl fis_pilot -a seed_file=input/urls_master.txt -a scope_limit=5 -a review_from=0 -a max_interactions=5"
+			],
+			"isBackground": false
+		},
+		{
+			"label": "pilot-batch-01-scope5-v2",
+			"type": "shell",
+			"command": "cmd",
+			"args": [
+				"/c",
+				"cd fis_scraper && ..\\.venv\\Scripts\\python.exe -m scrapy crawl fis_pilot -a seed_file=input/urls_master.txt -a scope_limit=5 -a review_from=0 -a max_interactions=5"
+			],
+			"isBackground": false
+		},
+		{
+			"label": "pilot-quick-ayuda",
+			"type": "shell",
+			"command": "cmd",
+			"args": [
+				"/c",
+				"cd fis_scraper && ..\\.venv\\Scripts\\python.exe -m scrapy crawl fis_pilot -a seed_file=input/urls_test_ayuda.txt -a scope_limit=1 -a review_from=0 -a max_interactions=1"
+			],
+			"isBackground": false
+		},
+		{
+			"label": "pilot-batch-02-scope10",
+			"type": "shell",
+			"command": "cmd",
+			"args": [
+				"/c",
+				"cd fis_scraper && ..\\.venv\\Scripts\\python.exe -m scrapy crawl fis_pilot -a seed_file=input/urls_master.txt -a scope_limit=10 -a review_from=5 -a max_interactions=5"
+			],
+			"isBackground": false
+		},
+		{
+			"label": "pilot-batch-02-scope10-full",
+			"type": "shell",
+			"command": "cmd",
+			"args": [
+				"/c",
+				"cd fis_scraper && ..\\.venv\\Scripts\\python.exe -m scrapy crawl fis_pilot -a seed_file=input/urls_master.txt -a scope_limit=10 -a review_from=5 -a pilot_limit=10 -a max_interactions=5"
+			],
+			"isBackground": false
+		},
+		{
+			"label": "pilot-batch-03-scope15",
+			"type": "shell",
+			"command": "cmd",
+			"args": [
+				"/c",
+				"cd fis_scraper && ..\\.venv\\Scripts\\python.exe -m scrapy crawl fis_pilot -a seed_file=input/urls_master.txt -a scope_limit=15 -a review_from=10 -a pilot_limit=15 -a max_interactions=5"
+			],
+			"isBackground": false
+		}
+	]
+}

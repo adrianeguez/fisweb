@@ -1,0 +1,32 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"label": "discovery-crawl",
+			"type": "shell",
+			"command": "cmd",
+			"args": [
+				"/c",
+				"..\\.venv\\Scripts\\python.exe -m scrapy crawl fis_discovery -a max_urls=1200 -a output_file=input/urls_master.txt"
+			],
+			"isBackground": false
+		},
+		{
+			"label": "pilot-batch-01-scope5",
+			"type": "shell",
+			"command": ".venv\\Scripts\\python.exe -m scrapy crawl fis_pilot -a seed_file=input/urls_master.txt -a scope_limit=5 -a review_from=0 -a max_interactions=5",
+			"group": "build"
+		},
+		{
+			"label": "pilot-quick-ayuda",
+			"type": "shell",
+			"command": "cmd",
+			"args": [
+				"/c",
+				"cd fis_scraper && ..\\.venv\\Scripts\\python.exe -m scrapy crawl fis_pilot -a seed_file=input/urls_test_ayuda.txt -a scope_limit=1 -a review_from=0 -a max_interactions=1"
+			],
+			"isBackground": false,
+			"group": "build"
+		}
+	]
+}

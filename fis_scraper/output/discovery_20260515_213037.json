@@ -1,0 +1,6 @@
+{
+  "reason": "finished",
+  "total_urls": 551,
+  "max_urls": 1200,
+  "output_file": "input/urls_master.txt"
+}
