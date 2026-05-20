@@ -1,0 +1,123 @@
+{
+  "url": "https://fis.epn.edu.ec/index.php/es/la-facultad/departamento-de-informatica-y-ciencias-de-la-computacion/proyectos-de-investigacion/148-proyectos-de-investigacion-internos-sin-financiamiento/562-pii-dicc-003-2016",
+  "state_id": "state_000_base",
+  "actions": [],
+  "content": {
+    "title": "Desarrollo de patrones de software para la implementación de MOOC's accesibles",
+    "h1": [],
+    "h2": [
+      "Desarrollo de patrones de software para la implementación de MOOC's accesibles"
+    ],
+    "h3": [
+      "La Facultad"
+    ],
+    "paragraphs": [
+      "Desarrollar patrones de software para la implementación de MOOCs accesibles.",
+      "Journal of Educational Computing Research",
+      "Journal of Software: Evolution and Process",
+      "Revista CienciAmérica, 2017. Vol. 6 (2)",
+      "Facultad de Sistemas todos los derechos reservados",
+      "Back to top"
+    ],
+    "bold_texts": [
+      "OBJETIVO GENERAL",
+      "OBJETIVOS ESPECÍFICOS",
+      "Título de la ponencia",
+      "Nombre del evento",
+      "País - Ciudad",
+      "Título del proyecto de titulación",
+      "Nombre del tutor",
+      "Nombre del estudiante",
+      "Estado"
+    ],
+    "links": [
+      "#",
+      "#jm-main",
+      "#jm-top-menu-nav",
+      "/index.php/es/",
+      "/index.php/es/docente",
+      "/index.php/es/estudiante",
+      "/index.php/es/investigacion/lineas-de-investigacion",
+      "/index.php/es/la-facultad/departamento-de-informatica-y-ciencias-de-la-computacion",
+      "/index.php/es/la-facultad/departamento-de-informatica-y-ciencias-de-la-computacion/grupos-de-investigacion",
+      "/index.php/es/la-facultad/departamento-de-informatica-y-ciencias-de-la-computacion/lineas-prioritarias-de-investigacion",
+      "/index.php/es/la-facultad/departamento-de-informatica-y-ciencias-de-la-computacion/planta-docente",
+      "/index.php/es/la-facultad/departamento-de-informatica-y-ciencias-de-la-computacion/proyectos-de-investigacion",
+      "/index.php/es/la-facultad/departamento-de-informatica-y-ciencias-de-la-computacion/proyectos-de-investigacion/148-proyectos-de-investigacion-internos-sin-financiamiento",
+      "/index.php/es/la-facultad/departamento-de-informatica-y-ciencias-de-la-computacion/proyectos-de-investigacion?fontsize=100",
+      "/index.php/es/la-facultad/departamento-de-informatica-y-ciencias-de-la-computacion/proyectos-de-investigacion?fontsize=130",
+      "/index.php/es/la-facultad/departamento-de-informatica-y-ciencias-de-la-computacion/proyectos-de-investigacion?fontsize=70",
+      "/index.php/es/la-facultad/departamento-de-informatica-y-ciencias-de-la-computacion/proyectos-de-vinculacion-y-proyeccion-social",
+      "/index.php/es/la-facultad/estructura-organica",
+      "/index.php/es/la-facultad/gestion-de-transferencia-tecnologica",
+      "/index.php/es/la-facultad/laboratorios",
+      "/index.php/es/la-facultad/laboratorios-de-investigacion",
+      "/index.php/es/la-facultad/planta-docentes",
+      "/index.php/es/maestrias/doctorado-en-informatica",
+      "/index.php/es/maestrias/maestria-en-ciberseguridad",
+      "/index.php/es/maestrias/maestria-en-inteligencia-artificial-art",
+      "/index.php/es/maestrias/maestria-en-tecnologia-e-innovacion-educativa",
+      "/index.php/es/oferta-academicafis/ciencia-de-datos-e-inteligencia-artificial",
+      "/index.php/es/oferta-academicafis/computacion",
+      "/index.php/es/oferta-academicafis/sistemas-de-informacion",
+      "/index.php/es/oferta-academicafis/software",
+      "https://fis.epn.edu.ec/",
+      "https://fis.epn.edu.ec/index.php/es/la-facultad/departamento-de-informatica-y-ciencias-de-la-computacion/grupos-de-investigacion",
+      "https://fis.epn.edu.ec/index.php/es/la-facultad/departamento-de-informatica-y-ciencias-de-la-computacion/proyectos-de-investigacion",
+      "https://fis.epn.edu.ec/index.php/es/la-facultad/departamento-de-informatica-y-ciencias-de-la-computacion/proyectos-de-vinculacion-y-proyeccion-social",
+      "https://lajc.epn.edu.ec/index.php/LAJC",
+      "https://www.facebook.com/fisepn",
+      "https://www.joomla-monster.com"
+    ],
+    "external_links": [
+      "https://lajc.epn.edu.ec/index.php/LAJC",
+      "https://www.facebook.com/fisepn",
+      "https://www.joomla-monster.com"
+    ],
+    "attachments": [],
+    "tables": [
+      {
+        "headers": [],
+        "rows": [
+          [
+            "Proceso de desarrollo y gestión de MOOC"
+          ],
+          [
+            "III Jornadas Académicas de Ingeniería en Sistemas y Diseño Digital"
+          ],
+          [
+            "Ecuador, Ambato"
+          ]
+        ]
+      },
+      {
+        "headers": [],
+        "rows": [
+          [
+            "Dra. Sandra Sánchez"
+          ],
+          [
+            "Jefferson Santiago Gualotuña Fajardo, Angel Enrique Molina Ortiz"
+          ],
+          [
+            "Finalizado"
+          ]
+        ]
+      }
+    ],
+    "list_items": [
+      "Describir el estado del arte en el campo combinado de MOOCs y Accesibilidad Web.",
+      "Describir el estado del arte en el campo de uso de patrones de software para la implementación de productos de software.",
+      "Diseñar y desarrollar patrones de software para la implementación de MOOCs accesibles.",
+      "Validar los patrones desarrollados.",
+      "Elaborar una publicación científica.",
+      "Technological Innovations in Large-Scale Teaching: Five Roots of Massive Open Online Courses MOOCS",
+      "Integration of accessibility design patterns with the software implementation process of ISO/IEC 29110",
+      "Proceso de desarrollo y gestión de MOOC"
+    ]
+  },
+  "assets": {
+    "screenshot": "screenshot_000_base.png",
+    "html_rendered": "html_rendered_000_base.html"
+  }
+}

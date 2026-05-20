@@ -1,0 +1,901 @@
+{
+  "url": "https://fis.epn.edu.ec/index.php/es/la-facultad/departamento-de-informatica-y-ciencias-de-la-computacion/proyectos-de-investigacion",
+  "state_id": "state_003_externo",
+  "actions": [
+    {
+      "type": "click",
+      "selector": ".djtabs-title.djtabs-accordion",
+      "index": 2,
+      "label": "EXTERNO"
+    }
+  ],
+  "content": {
+    "title": "Proyectos de Investigación",
+    "h1": [],
+    "h2": [
+      "Proyectos de Investigación",
+      "Interno sin financiamiento",
+      "Interno",
+      "Externo",
+      "Junior",
+      "Semilla",
+      "Multi e Interdisciplinario",
+      "Transferencia Tecnológica"
+    ],
+    "h3": [
+      "La Facultad",
+      "Evaluación de la representación de datos e información en entidades biológicas",
+      "Evaluación de estrategias de persistencia políglota para optimizar OLAP sobre NoSQL en entornos de B...",
+      "Aplicación de Tecnologías Descentralizadas Web3 para Garantizar la Transparencia e Integridad de los...",
+      "Predicción cuantitativa del Valor del Índice de la Bolsa S&P500 usando técnicas de Computación Bland...",
+      "Sistema de Monitoreo de niveles de Rayos Ultravioleta del sol basado en LoRaWAN",
+      "Diseño de un modelo de recomendación de tópicos para grupos de investigadores basado en el análisis ...",
+      "Detección de las inhalaciones en la señal acústica del habla en el idioma francés",
+      "Elaboración de un perfil de criterios para la creación de una metodología de diseño de Juegos Serios...",
+      "Desarrollo y evaluación del desempeño de un método computacional para procesos de búsqueda de blanco...",
+      "Desarrollo de patrones de software para la implementación de MOOC's accesibles",
+      "Generar el Log de Eventos Sísmicos y Vulcanológicos aplicando técnicas de Minería de Procesos (Fase ...",
+      "Propuesta de mejora de la Calidad del Proceso de Implementación de Productos de Software Basado en l...",
+      "Creación de un Sistema de Recomendación Híbrido para Descubrimiento de Fármacos",
+      "Identificación de factores que influyen en la productividad del desarrollo de software",
+      "Sistema de recomendación para revistas científicas abiertas utilizando tecnologías de Linked data",
+      "Aceptabilidad de la A2R",
+      "Uso de métodos de minería de Datos Educativos para e-learning",
+      "Uso de microdatos para mejorar los resultados de búsqueda de recursos educativos abiertos accesibles...",
+      "Diseño de una Arquitectura de un Servidor de Mapas Geográficos Accesibles",
+      "Marco de trabajo para la predicción de contribuyentes deudores con alto riesgo de no pago de impuest...",
+      "Semántica embebida con JSON-LD para generar información enriquecida en resultados de búsqueda de Rec...",
+      "Caracterización de ejercicios de diseño de software para potenciar la habilidad de abstraer",
+      "Detección de ransomware a gran escala por medio de seguridad cognitiva",
+      "Utilización de técnicas de análisis de textos para evaluar iniciativas sociales y ecológicas de sost...",
+      "Minería de texto para construir la filogenia de los insectos vectores de la enfermedad de chagas",
+      "Plataforma digital para educación terapéutica accesible hacia las necesidades de rehabilitación resp...",
+      "Clasificación de señales electromiográficas del brazo humano usando técnicas de reconocimiento de pa...",
+      "Diseño e Implementación de un Sistema de Parqueadero Inteligente",
+      "Sistema de Compartición de Datos Abiertos basado en la tecnología Blockchain",
+      "Anti-patrones en el ciclo de vida del desarrollo de software y su impacto en la ciberseguridad",
+      "Desarrollo de modelos de predicción del nivel de riesgo de accidentes de tráfico usando técnicasde i...",
+      "Minería de datos, extracción de vector de características y obtención de modelos con reconocimiento ...",
+      "Control de Dispositivos a través del Pensamiento (Ondas Cerebrales)",
+      "Desarrollo de un modelo de aprendizaje automático para ayuda al diagnóstico para ser aplicado en las..."
+    ],
+    "paragraphs": [
+      "Recalde Cerda Lorena Katherine",
+      "Barriga Andrade Jhonattan Javier",
+      "Martínez Mosquera Silvia Diana",
+      "Loza Aguirre Edison Fernando",
+      "Carrión Toro Mayra Del Cisne",
+      "José Lisandro Aguilar Castro",
+      "Sergio Luján Mora",
+      "Ordoñez Calero Hernán David",
+      "Oswaldo Díaz",
+      "Villarroel Ramos Jorge Patricio",
+      "Torres Olmedo Jenny Gabriela",
+      "Terán Villamarín Carlos Miguel",
+      "Vásquez María Stefanie",
+      "Zaldumbide Juan Pablo",
+      "Egüez Sarzosa Vicente Adrián",
+      "Molina Bustamante Marco Eduardo",
+      "Montenegro Armas Carlos Estalesmit",
+      "Rigoberto Salomón Fonseca Delgado",
+      "Barona López Lorena Isabel",
+      "Valdivieso Caraguay Ángel Leonardo",
+      "Herrera Silva Juan Alberto",
+      "Segura Morales Marco Antonio",
+      "Carrera Izurieta Iván Marcelo",
+      "Miguel Pinto",
+      "Anchundia Valencia Carlos Eduardo",
+      "Zambrano Rodríguez Patricio Xavier",
+      "Marco Segura",
+      "Andrés Jaramillo",
+      "Andrade Paredes Roberto Omar",
+      "Sánchez Gordón Sandra Patricia",
+      "Hernández Álvarez Myriam Beatriz",
+      "Facultad de Sistemas todos los derechos reservados",
+      "Back to top",
+      "Interno sin financiamiento Evaluación de la representación de datos e información en entidades biológicas DATOS GENERALES Código PII-DICC-2023-01 Fecha de inicio 23 de enero de 2023 Fecha de finalización 22 de enero de 2024 Director Carrera Izurieta Iván Marcelo Leer mas... Evaluación de estrategias de persistencia políglota para optimizar OLAP sobre NoSQL en entornos de B... DATOS GENERALES Código PII-DICC-2023-03 Fecha de inicio - Fecha de finalización 12 de noviembre de 2024 Director Martínez Mosquera Silvia Diana Colaboradores Recalde Cerda Lorena Katherine Leer mas... Aplicación de Tecnologías Descentralizadas Web3 para Garantizar la Transparencia e Integridad de los... DATOS GENERALES Código PII-DICC-2023-05 Fecha de inicio - Fecha de finalización 26 de noviembre de 2024 Director Mafla Gallegos Luis Enrique Leer mas... Predicción cuantitativa del Valor del Índice de la Bolsa S&P500 usando técnicas de Computación Bland... DATOS GENERALES Código PII-DICC-2023-02 Fecha de inicio 22 de febrero de 2023 Fecha de finalización 21 de febrero de 2024 Director Montenegro Armas Carlos Estalesmit Leer mas... Sistema de Monitoreo de niveles de Rayos Ultravioleta del sol basado en LoRaWAN DATOS GENERALES Código PII-DICC-2022-02 Fecha de inicio 7 de noviembre de 2022 Fecha de finalización 6 de febrero de 2024 Director Yoo Park Sang Guun Colaboradores Barriga Andrade Jhonattan Javier Leer mas... Diseño de un modelo de recomendación de tópicos para grupos de investigadores basado en el análisis ... DATOS GENERALES Código PII-DICC-2023-04 Fecha de inicio 2023 Fecha de finalización 26 de noviembre de 2024 Director Recalde Cerda Lorena Katherine Colaboradores Martínez Mosquera Silvia Diana Leer mas... Detección de las inhalaciones en la señal acústica del habla en el idioma francés DATOS GENERALES Código PII-DICC-01-2017 Fecha de inicio 8 de mayo de 2017 Fecha de finalización 7 de mayo de 2018 Director Aguiar Pontes Josafá de Jesús Leer mas... Elaboración de un perfil de criterios para la creación de una metodología de diseño de Juegos Serios... DATOS GENERALES Código PII-DICC-03-2017 Fecha de inicio 17 de agosto de 2017 Fecha de finalización 16 de febrero de 2019 Director Santorum Gaibor Marco Oswaldo Colaboradores Loza Aguirre Edison Fernando Carrión Toro Mayra Del Cisne José Lisandro Aguilar Castro Leer mas... Desarrollo y evaluación del desempeño de un método computacional para procesos de búsqueda de blanco... DATOS GENERALES Código PII-DICC-02-2017 Fecha de inicio 29 de mayo de 2017 Fecha de finalización 28 de septiembre de 2018 Director Carrera Izurieta Iván Marcelo Leer mas... Desarrollo de patrones de software para la implementación de MOOC's accesibles DATOS GENERALES Código PII-DICC-003-2016 Fecha de inicio 9 de enero de 2017 Fecha de finalización 8 de enero de 2018 Director Sánchez Gordón Sandra Patricia Colaboradores Sergio Luján Mora Ordoñez Calero Hernán David Leer mas... Generar el Log de Eventos Sísmicos y Vulcanológicos aplicando técnicas de Minería de Procesos (Fase ... DATOS GENERALES Código PII-DICC-01-2018 Fecha de inicio 12 de marzo de 2018 Fecha de finalización 11 de junio de 2019 Director Pérez Hernández María Gabriela Colaboradores Oswaldo Díaz Leer mas... Propuesta de mejora de la Calidad del Proceso de Implementación de Productos de Software Basado en l... DATOS GENERALES Código PII-DICC-02-2018 Fecha de inicio 7 de septiembre de 2018 Fecha de finalización 6 de septiembre de 2019 Director Sánchez Gordón Sandra Patricia Colaboradores Villarroel Ramos Jorge Patricio Leer mas... Interno Creación de un Sistema de Recomendación Híbrido para Descubrimiento de Fármacos DATOS GENERALES Código PIIF-22-03 Fecha de inicio 26 de junio de 2023 Fecha de finalización 25 de junio de 2024 Director Carrera Izurieta Iván Marcelo Leer más Identificación de factores que influyen en la productividad del desarrollo de software DATOS GENERALES Código PII-16-07 Fecha de inicio 17 de abril de 2017 Fecha de finalización 17 de abril de 2018 Director Flores Naranjo Pamela Catherine Colaboradores Torres Olmedo Jenny Gabriela Terán Villamarín Carlos Miguel Leer más Sistema de recomendación para revistas científicas abiertas utilizando tecnologías de Linked data DATOS GENERALES Código PII-16-06 Fecha de inicio 17 de abril de 2017 Fecha de finalización 16 de agosto de 2018 Director Hallo Carrasco María Asunción Colaboradores Sergio Luján Mora Leer más Aceptabilidad de la A2R DATOS GENERALES Código PII-16-04 Fecha de inicio 17 de abril de 2017 Fecha de finalización 16 de agosto de 2018 Director Tenemaza Vera Regina Maritzol Leer más Uso de métodos de minería de Datos Educativos para e-learning DATOS GENERALES Código PII-16-03 Fecha de inicio 17 de abril de 2017 Fecha de finalización 16 de septiembre de 2018 Director Peñafiel Aguilar Myriam Guadalupe Colaboradores Vásquez María Stefanie Zaldumbide Juan Pablo Leer más Uso de microdatos para mejorar los resultados de búsqueda de recursos educativos abiertos accesibles... DATOS GENERALES Código PII-16-01 Fecha de inicio 17 de abril de 2017 Fecha de finalización 29 de junio de 2018 Director Navarrete Rueda Rosa Del Carmen Colaboradores Sergio Luján Mora Leer más Diseño de una Arquitectura de un Servidor de Mapas Geográficos Accesibles DATOS GENERALES Código PII-16-02 Fecha de inicio 17 de abril de 2017 Fecha de finalización 22 de junio de 2018 Director Calle Jiménez Tania Elizabeth Colaboradores Egüez Sarzosa Vicente Adrián Leer más Marco de trabajo para la predicción de contribuyentes deudores con alto riesgo de no pago de impuest... DATOS GENERALES Código PII-18-04 Fecha de inicio 1 de abril de 2019 Fecha de finalización 31 de junio de 2020 Director Hallo Carrasco María Asunción Colaboradores Sergio Luján Mora Molina Bustamante Marco Eduardo Leer más Semántica embebida con JSON-LD para generar información enriquecida en resultados de búsqueda de Rec... DATOS GENERALES Código PII-18-01 Fecha de inicio 1 de abril de 2019 Fecha de finalización 30 de junio de 2020 Director Navarrete Rueda Rosa Del Carmen Colaboradores Montenegro Armas Carlos Estalesmit Recalde Cerda Lorena Katherine Sergio Luján Mora Leer más Caracterización de ejercicios de diseño de software para potenciar la habilidad de abstraer DATOS GENERALES Código PII-17-11 Fecha de inicio 9 de abril de 2018 Fecha de finalización 8 de octubre de 2019 Director Flores Naranjo Pamela Catherine Colaboradores Torres Olmedo Jenny Gabriela Rigoberto Salomón Fonseca Delgado Leer más Detección de ransomware a gran escala por medio de seguridad cognitiva DATOS GENERALES Código PII-17-14 Fecha de inicio 9 de abril de 2018 Fecha de finalización 8 de octubre de 2019 Director Hernández Álvarez Myriam Beatriz Colaboradores Barona López Lorena Isabel Valdivieso Caraguay Ángel Leonardo Herrera Silva Juan Alberto Leer más Utilización de técnicas de análisis de textos para evaluar iniciativas sociales y ecológicas de sost... DATOS GENERALES Código PII-17-05 Fecha de inicio 9 de abril de 2018 Fecha de finalización 8 de abril de 2019 Director Montenegro Armas Carlos Estalesmit Colaboradores Loza Aguirre Edison Fernando Segura Morales Marco Antonio Leer más Minería de texto para construir la filogenia de los insectos vectores de la enfermedad de chagas DATOS GENERALES Código PII-17-02 Fecha de inicio 9 de abril de 2018 Fecha de finalización 9 de abril de 2019 Director Hallo Carrasco María Asunción Colaboradores Carrera Izurieta Iván Marcelo Miguel Pinto Leer más Externo Plataforma digital para educación terapéutica accesible hacia las necesidades de rehabilitación resp... DATOS GENERALES Código PIEX-CEDIA-XVII-2022-27 Fecha de inicio 1 de enero de 2023 Fecha de finalización 1 de enero de 2024 Director Santorum Gaibor Marco Oswaldo Colaboradores Carrión Toro Mayra Del Cisne Leer mas... Junior Clasificación de señales electromiográficas del brazo humano usando técnicas de reconocimiento de pa... DATOS GENERALES Código PIJ-16-13 Fecha de inicio 17 de abril de 2017 Fecha de finalización 16 de octubre de 2019 Director Benalcázar Palacios Marco Enrique Colaboradores Anchundia Valencia Carlos Eduardo Zambrano Rodríguez Patricio Xavier Marco Segura Andrés Jaramillo Leer mas... Diseño e Implementación de un Sistema de Parqueadero Inteligente DATOS GENERALES Código PIJ-17-08 Fecha de inicio 9 de abril de 2018 Fecha de finalización 8 de julio de 2020 Director Yoo Park Sang Guun Colaboradores Loza Aguirre Edison Fernando Andrade Paredes Roberto Omar Barriga Andrade Jhonattan Javier Leer mas... Semilla Sistema de Compartición de Datos Abiertos basado en la tecnología Blockchain DATOS GENERALES Código PIS-22-14 Fecha de inicio 26 de junio de 2023 Fecha de finalización 25 de diciembre de 2024 Director Barriga Andrade Jhonattan Javier Colaboradores Andrade Paredes Roberto Omar Leer mas... Anti-patrones en el ciclo de vida del desarrollo de software y su impacto en la ciberseguridad DATOS GENERALES Código PIS-22-19 Fecha de inicio 26 de junio de 2023 Fecha de finalización 25 de diciembre de 2024 Director Torres Olmedo Jenny Gabriela Colaboradores Andrade Paredes Roberto Omar Leer mas... Desarrollo de modelos de predicción del nivel de riesgo de accidentes de tráfico usando técnicasde i... DATOS GENERALES Código PIS-22-20 Fecha de inicio - Fecha de finalización 25 de diciembre de 2024 Director Hernández Álvarez Myriam Beatriz Colaboradores Sánchez Gordón Sandra Patricia Valdivieso Caraguay Ángel Leonardo Leer mas... Minería de datos, extracción de vector de características y obtención de modelos con reconocimiento ... DATOS GENERALES Código PIS-17-10 Fecha de inicio 13 de marzo de 2018 Fecha de finalización 13 de abril de 2020 Director Hernández Álvarez Myriam Beatriz Colaboradores Egüez Sarzosa Vicente Adrián Leer mas... Control de Dispositivos a través del Pensamiento (Ondas Cerebrales) DATOS GENERALES Código PIS-17-15 Fecha de inicio 9 de abril de 2018 Fecha de finalización 8 de octubre de 2019 Director Yoo Park Sang Guun Colaboradores Hernández Álvarez Myriam Beatriz Andrade Paredes Roberto Omar Leer mas... Multi e Interdisciplinario Transferencia Tecnológica Desarrollo de un modelo de aprendizaje automático para ayuda al diagnóstico para ser aplicado en las... DATOS GENERALES Código PTT-22-03 Fecha de inicio 26 de junio de 2023 Fecha de finalización 25 de diciembre de 2024 Director Pérez Hernández María Gabriela Leer mas..."
+    ],
+    "bold_texts": [
+      "DATOS GENERALES",
+      "Código",
+      "Fecha de inicio",
+      "Fecha de finalización",
+      "Director",
+      "DATOS GENERALES",
+      "Código",
+      "Fecha de inicio",
+      "Fecha de finalización",
+      "Director",
+      "Colaboradores",
+      "DATOS GENERALES",
+      "Código",
+      "Fecha de inicio",
+      "Fecha de finalización",
+      "Director",
+      "DATOS GENERALES",
+      "Código",
+      "Fecha de inicio",
+      "Fecha de finalización",
+      "Director",
+      "DATOS GENERALES",
+      "Código",
+      "Fecha de inicio",
+      "Fecha de finalización",
+      "Director",
+      "Colaboradores",
+      "DATOS GENERALES",
+      "Código",
+      "Fecha de inicio",
+      "Fecha de finalización",
+      "Director",
+      "Colaboradores",
+      "DATOS GENERALES",
+      "Código",
+      "Fecha de inicio",
+      "Fecha de finalización",
+      "Director",
+      "DATOS GENERALES",
+      "Código",
+      "Fecha de inicio",
+      "Fecha de finalización",
+      "Director",
+      "Colaboradores",
+      "DATOS GENERALES",
+      "Código",
+      "Fecha de inicio",
+      "Fecha de finalización",
+      "Director",
+      "DATOS GENERALES",
+      "Código",
+      "Fecha de inicio",
+      "Fecha de finalización",
+      "Director",
+      "Colaboradores",
+      "DATOS GENERALES",
+      "Código",
+      "Fecha de inicio",
+      "Fecha de finalización",
+      "Director",
+      "Colaboradores",
+      "DATOS GENERALES",
+      "Código",
+      "Fecha de inicio",
+      "Fecha de finalización",
+      "Director",
+      "Colaboradores",
+      "DATOS GENERALES",
+      "Código",
+      "Fecha de inicio",
+      "Fecha de finalización",
+      "Director",
+      "DATOS GENERALES",
+      "Código",
+      "Fecha de inicio",
+      "Fecha de finalización",
+      "Director",
+      "Colaboradores",
+      "DATOS GENERALES",
+      "Código",
+      "Fecha de inicio",
+      "Fecha de finalización",
+      "Director",
+      "Colaboradores",
+      "DATOS GENERALES",
+      "Código",
+      "Fecha de inicio",
+      "Fecha de finalización",
+      "Director",
+      "DATOS GENERALES",
+      "Código",
+      "Fecha de inicio",
+      "Fecha de finalización",
+      "Director",
+      "Colaboradores",
+      "DATOS GENERALES",
+      "Código",
+      "Fecha de inicio",
+      "Fecha de finalización",
+      "Director",
+      "Colaboradores",
+      "DATOS GENERALES",
+      "Código",
+      "Fecha de inicio",
+      "Fecha de finalización",
+      "Director",
+      "Colaboradores",
+      "DATOS GENERALES",
+      "Código",
+      "Fecha de inicio",
+      "Fecha de finalización",
+      "Director",
+      "Colaboradores",
+      "DATOS GENERALES",
+      "Código",
+      "Fecha de inicio",
+      "Fecha de finalización",
+      "Director",
+      "Colaboradores",
+      "DATOS GENERALES",
+      "Código",
+      "Fecha de inicio",
+      "Fecha de finalización",
+      "Director",
+      "Colaboradores",
+      "DATOS GENERALES",
+      "Código",
+      "Fecha de inicio",
+      "Fecha de finalización",
+      "Director",
+      "Colaboradores",
+      "DATOS GENERALES",
+      "Código",
+      "Fecha de inicio",
+      "Fecha de finalización",
+      "Director",
+      "Colaboradores",
+      "DATOS GENERALES",
+      "Código",
+      "Fecha de inicio",
+      "Fecha de finalización",
+      "Director",
+      "Colaboradores",
+      "DATOS GENERALES",
+      "Código",
+      "Fecha de inicio",
+      "Fecha de finalización",
+      "Director",
+      "Colaboradores",
+      "DATOS GENERALES",
+      "Código",
+      "Fecha de inicio",
+      "Fecha de finalización",
+      "Director",
+      "Colaboradores",
+      "DATOS GENERALES",
+      "Código",
+      "Fecha de inicio",
+      "Fecha de finalización",
+      "Director",
+      "Colaboradores",
+      "DATOS GENERALES",
+      "Código",
+      "Fecha de inicio",
+      "Fecha de finalización",
+      "Director",
+      "Colaboradores",
+      "DATOS GENERALES",
+      "Código",
+      "Fecha de inicio",
+      "Fecha de finalización",
+      "Director",
+      "Colaboradores",
+      "DATOS GENERALES",
+      "Código",
+      "Fecha de inicio",
+      "Fecha de finalización",
+      "Director",
+      "Colaboradores",
+      "DATOS GENERALES",
+      "Código",
+      "Fecha de inicio",
+      "Fecha de finalización",
+      "Director",
+      "Colaboradores",
+      "DATOS GENERALES",
+      "Código",
+      "Fecha de inicio",
+      "Fecha de finalización",
+      "Director",
+      "Colaboradores",
+      "DATOS GENERALES",
+      "Código",
+      "Fecha de inicio",
+      "Fecha de finalización",
+      "Director"
+    ],
+    "links": [
+      "#",
+      "#jm-main",
+      "#jm-top-menu-nav",
+      "/index.php/es/",
+      "/index.php/es/docente",
+      "/index.php/es/estudiante",
+      "/index.php/es/investigacion/lineas-de-investigacion",
+      "/index.php/es/la-facultad/departamento-de-informatica-y-ciencias-de-la-computacion",
+      "/index.php/es/la-facultad/departamento-de-informatica-y-ciencias-de-la-computacion/grupos-de-investigacion",
+      "/index.php/es/la-facultad/departamento-de-informatica-y-ciencias-de-la-computacion/lineas-prioritarias-de-investigacion",
+      "/index.php/es/la-facultad/departamento-de-informatica-y-ciencias-de-la-computacion/planta-docente",
+      "/index.php/es/la-facultad/departamento-de-informatica-y-ciencias-de-la-computacion/proyectos-de-investigacion",
+      "/index.php/es/la-facultad/departamento-de-informatica-y-ciencias-de-la-computacion/proyectos-de-investigacion/147-proyectos-de-investigacion-internos/544-pii-17-02",
+      "/index.php/es/la-facultad/departamento-de-informatica-y-ciencias-de-la-computacion/proyectos-de-investigacion/147-proyectos-de-investigacion-internos/547-pii-17-05",
+      "/index.php/es/la-facultad/departamento-de-informatica-y-ciencias-de-la-computacion/proyectos-de-investigacion/147-proyectos-de-investigacion-internos/548-pii-17-11",
+      "/index.php/es/la-facultad/departamento-de-informatica-y-ciencias-de-la-computacion/proyectos-de-investigacion/147-proyectos-de-investigacion-internos/549-pii-17-14",
+      "/index.php/es/la-facultad/departamento-de-informatica-y-ciencias-de-la-computacion/proyectos-de-investigacion/147-proyectos-de-investigacion-internos/552-pii-18-01",
+      "/index.php/es/la-facultad/departamento-de-informatica-y-ciencias-de-la-computacion/proyectos-de-investigacion/147-proyectos-de-investigacion-internos/553-pii-18-04",
+      "/index.php/es/la-facultad/departamento-de-informatica-y-ciencias-de-la-computacion/proyectos-de-investigacion/147-proyectos-de-investigacion-internos/556-pii-16-01",
+      "/index.php/es/la-facultad/departamento-de-informatica-y-ciencias-de-la-computacion/proyectos-de-investigacion/147-proyectos-de-investigacion-internos/557-pii-16-02",
+      "/index.php/es/la-facultad/departamento-de-informatica-y-ciencias-de-la-computacion/proyectos-de-investigacion/147-proyectos-de-investigacion-internos/558-pii-16-03",
+      "/index.php/es/la-facultad/departamento-de-informatica-y-ciencias-de-la-computacion/proyectos-de-investigacion/147-proyectos-de-investigacion-internos/559-pii-16-04",
+      "/index.php/es/la-facultad/departamento-de-informatica-y-ciencias-de-la-computacion/proyectos-de-investigacion/147-proyectos-de-investigacion-internos/560-pii-16-06",
+      "/index.php/es/la-facultad/departamento-de-informatica-y-ciencias-de-la-computacion/proyectos-de-investigacion/147-proyectos-de-investigacion-internos/561-pii-16-07",
+      "/index.php/es/la-facultad/departamento-de-informatica-y-ciencias-de-la-computacion/proyectos-de-investigacion/147-proyectos-de-investigacion-internos/788-piif-22-03",
+      "/index.php/es/la-facultad/departamento-de-informatica-y-ciencias-de-la-computacion/proyectos-de-investigacion/148-proyectos-de-investigacion-internos-sin-financiamiento/554-pii-dicc-01-2018",
+      "/index.php/es/la-facultad/departamento-de-informatica-y-ciencias-de-la-computacion/proyectos-de-investigacion/148-proyectos-de-investigacion-internos-sin-financiamiento/555-pii-dicc-02-2018",
+      "/index.php/es/la-facultad/departamento-de-informatica-y-ciencias-de-la-computacion/proyectos-de-investigacion/148-proyectos-de-investigacion-internos-sin-financiamiento/562-pii-dicc-003-2016",
+      "/index.php/es/la-facultad/departamento-de-informatica-y-ciencias-de-la-computacion/proyectos-de-investigacion/148-proyectos-de-investigacion-internos-sin-financiamiento/564-pii-dicc-02-2017",
+      "/index.php/es/la-facultad/departamento-de-informatica-y-ciencias-de-la-computacion/proyectos-de-investigacion/148-proyectos-de-investigacion-internos-sin-financiamiento/565-pii-dicc-03-2017",
+      "/index.php/es/la-facultad/departamento-de-informatica-y-ciencias-de-la-computacion/proyectos-de-investigacion/148-proyectos-de-investigacion-internos-sin-financiamiento/684-pii-dicc-01-2017",
+      "/index.php/es/la-facultad/departamento-de-informatica-y-ciencias-de-la-computacion/proyectos-de-investigacion/148-proyectos-de-investigacion-internos-sin-financiamiento/777-pii-dicc-2023-04",
+      "/index.php/es/la-facultad/departamento-de-informatica-y-ciencias-de-la-computacion/proyectos-de-investigacion/148-proyectos-de-investigacion-internos-sin-financiamiento/778-pii-dicc-2022-02",
+      "/index.php/es/la-facultad/departamento-de-informatica-y-ciencias-de-la-computacion/proyectos-de-investigacion/148-proyectos-de-investigacion-internos-sin-financiamiento/783-pii-dicc-2023-02",
+      "/index.php/es/la-facultad/departamento-de-informatica-y-ciencias-de-la-computacion/proyectos-de-investigacion/148-proyectos-de-investigacion-internos-sin-financiamiento/784-pii-dicc-2023-05",
+      "/index.php/es/la-facultad/departamento-de-informatica-y-ciencias-de-la-computacion/proyectos-de-investigacion/148-proyectos-de-investigacion-internos-sin-financiamiento/786-pii-dicc-2023-03",
+      "/index.php/es/la-facultad/departamento-de-informatica-y-ciencias-de-la-computacion/proyectos-de-investigacion/148-proyectos-de-investigacion-internos-sin-financiamiento/787-pii-dicc-2023-01",
+      "/index.php/es/la-facultad/departamento-de-informatica-y-ciencias-de-la-computacion/proyectos-de-investigacion/149-proyectos-de-investigacion-externos/785-piex-cedia-xvii-2022-27",
+      "/index.php/es/la-facultad/departamento-de-informatica-y-ciencias-de-la-computacion/proyectos-de-investigacion/150-proyectos-de-investigacion-junior/545-pij-17-08",
+      "/index.php/es/la-facultad/departamento-de-informatica-y-ciencias-de-la-computacion/proyectos-de-investigacion/150-proyectos-de-investigacion-junior/563-pij-16-13",
+      "/index.php/es/la-facultad/departamento-de-informatica-y-ciencias-de-la-computacion/proyectos-de-investigacion/151-proyectos-de-investigacion-semilla/550-pis-17-10",
+      "/index.php/es/la-facultad/departamento-de-informatica-y-ciencias-de-la-computacion/proyectos-de-investigacion/151-proyectos-de-investigacion-semilla/551-pis-17-15",
+      "/index.php/es/la-facultad/departamento-de-informatica-y-ciencias-de-la-computacion/proyectos-de-investigacion/151-proyectos-de-investigacion-semilla/779-pis-22-20",
+      "/index.php/es/la-facultad/departamento-de-informatica-y-ciencias-de-la-computacion/proyectos-de-investigacion/151-proyectos-de-investigacion-semilla/780-pis-22-19",
+      "/index.php/es/la-facultad/departamento-de-informatica-y-ciencias-de-la-computacion/proyectos-de-investigacion/151-proyectos-de-investigacion-semilla/781-pis-22-14",
+      "/index.php/es/la-facultad/departamento-de-informatica-y-ciencias-de-la-computacion/proyectos-de-investigacion/189-proyectos-de-investigacion-transferencia-tecnologica/789-ptt-22-03",
+      "/index.php/es/la-facultad/departamento-de-informatica-y-ciencias-de-la-computacion/proyectos-de-investigacion?fontsize=100",
+      "/index.php/es/la-facultad/departamento-de-informatica-y-ciencias-de-la-computacion/proyectos-de-investigacion?fontsize=130",
+      "/index.php/es/la-facultad/departamento-de-informatica-y-ciencias-de-la-computacion/proyectos-de-investigacion?fontsize=70",
+      "/index.php/es/la-facultad/departamento-de-informatica-y-ciencias-de-la-computacion/proyectos-de-vinculacion-y-proyeccion-social",
+      "/index.php/es/la-facultad/estructura-organica",
+      "/index.php/es/la-facultad/gestion-de-transferencia-tecnologica",
+      "/index.php/es/la-facultad/laboratorios",
+      "/index.php/es/la-facultad/laboratorios-de-investigacion",
+      "/index.php/es/la-facultad/planta-docentes",
+      "/index.php/es/la-facultad/planta-docentes/159-montenegro-armas-carlos-estalesmit?highlight=WyJtb250ZW5lZ3JvIl0=",
+      "/index.php/es/la-facultad/planta-docentes/180-ordonez-calero-hernan-david?highlight=WyJvcmRvXHUwMGYxZXoiXQ==",
+      "/index.php/es/la-facultad/planta-docentes/182-hallo-carrasco-maria-asuncion?highlight=WyJoYWxsbyIsImNhcnJhc2NvIiwibWFyXHUwMGVkYSIsImhhbGxvIGNhcnJhc2NvIiwiaGFsbG8gY2FycmFzY28gbWFyaWEiLCJjYXJyYXNjbyBtYXJpYSJd",
+      "/index.php/es/la-facultad/planta-docentes/182-hallo-carrasco-maria-asuncion?highlight=WyJoYWxsbyJd",
+      "/index.php/es/la-facultad/planta-docentes/188-benalcazar-palacios-marco-enrique",
+      "/index.php/es/la-facultad/planta-docentes/189-aguiar-pontes-josafa-de-jesus",
+      "/index.php/es/la-facultad/planta-docentes/196-torres-olmedo-jenny-gabriela?highlight=WyJ0b3JyZXMiXQ==",
+      "/index.php/es/la-facultad/planta-docentes/196-torres-olmedo-jenny-gabriela?highlight=WyJqZW5ueSIsInRvcnJlcyIsImplbm55IHRvcnJlcyJd",
+      "/index.php/es/la-facultad/planta-docentes/198-carrion-toro-mayra-del-cisne?highlight=WyJjYXJyaVx1MDBmM24iXQ==",
+      "/index.php/es/la-facultad/planta-docentes/201-loza-aguirre-edison-fernando?highlight=WyJsb3phIl0=",
+      "/index.php/es/la-facultad/planta-docentes/203-santorum-gaibor-marco-oswaldo?highlight=WyJzYW50b3J1bSJd",
+      "/index.php/es/la-facultad/planta-docentes/204-calle-jimenez-tania-elizabeth?highlight=WyJjYWxsZSJd",
+      "/index.php/es/la-facultad/planta-docentes/205-penafiel-aguilar-myriam-guadalupe?highlight=WyJwZVx1MDBmMWFmaWVsIl0=",
+      "/index.php/es/la-facultad/planta-docentes/206-sanchez-gordon-sandra-patricia?highlight=WyJzXHUwMGUxbmNoZXoiXQ==",
+      "/index.php/es/la-facultad/planta-docentes/206-sanchez-gordon-sandra-patricia?highlight=WyJzYW5kcmEiLCJzXHUwMGUxbmNoZXoiLCJzYW5kcmEgc2FuY2hleiJd",
+      "/index.php/es/la-facultad/planta-docentes/207-tenemaza-vera-regina-maritzol?highlight=WyJ0ZW5lbWF6YSJd",
+      "/index.php/es/la-facultad/planta-docentes/209-perez-hernandez-maria-gabriela?highlight=WyJtYXJcdTAwZWRhIl0=",
+      "/index.php/es/la-facultad/planta-docentes/209-perez-hernandez-maria-gabriela?highlight=WyJwXHUwMGU5cmV6Il0=",
+      "/index.php/es/la-facultad/planta-docentes/215-zambrano-rodriguez-patricio-xavier?highlight=WyJ6YW1icmFubyJd",
+      "/index.php/es/la-facultad/planta-docentes/217-flores-naranjo-pamela-catherine?highlight=WyJmbG9yZXMiXQ==",
+      "/index.php/es/la-facultad/planta-docentes/217-flores-naranjo-pamela-catherine?highlight=WyJwYW1lbGEiLCJmbG9yZXMiLCJwYW1lbGEgZmxvcmVzIl0=",
+      "/index.php/es/la-facultad/planta-docentes/219-anchundia-valencia-carlos-eduardo",
+      "/index.php/es/la-facultad/planta-docentes/224-barriga-andrade-jhonattan-javier/224-barriga-andrade-jhonattan-javier",
+      "/index.php/es/la-facultad/planta-docentes/224-barriga-andrade-jhonattan-javier?highlight=WyJiYXJyaWdhIl0=",
+      "/index.php/es/la-facultad/planta-docentes/225-yoo-park-sang-guun?highlight=WyJ5b28iLCJzYW5nIiwiZ3V1biIsInlvbyBzYW5nIiwieW9vIHNhbmcgZ3V1biIsInNhbmcgZ3V1biJd",
+      "/index.php/es/la-facultad/planta-docentes/225-yoo-park-sang-guun?highlight=WyJ5b28iXQ==",
+      "/index.php/es/la-facultad/planta-docentes/227-herrera-silva-juan-alberto?highlight=WyJoZXJyZXJhIl0=",
+      "/index.php/es/la-facultad/planta-docentes/234-navarrete-rueda-rosa-del-carmen?highlight=WyJyb3NhIiwibmF2YXJyZXRlIiwicm9zYSBuYXZhcnJldGUiXQ==",
+      "/index.php/es/la-facultad/planta-docentes/234-navarrete-rueda-rosa-del-carmen?highlight=WyJyb3NhIl0=",
+      "/index.php/es/la-facultad/planta-docentes/243-hernandez-alvarez-myriam-beatriz?highlight=WyJoZXJuXHUwMGUxbmRleiJd",
+      "/index.php/es/la-facultad/planta-docentes/243-hernandez-alvarez-myriam-beatriz?highlight=WyJteXJpYW0iXQ==",
+      "/index.php/es/la-facultad/planta-docentes/245-carrera-izurieta-ivan-marcelo?highlight=WyJjYXJyZXJhIl0=",
+      "/index.php/es/la-facultad/planta-docentes/245-carrera-izurieta-ivan-marcelo?highlight=WyJpdmFuIiwiY2FycmVyYSIsIml2YW4gY2FycmVyYSJd",
+      "/index.php/es/la-facultad/planta-docentes/255-mafla-gallegos-luis-enrique?highlight=WyJtYWZsYSJd",
+      "/index.php/es/la-facultad/planta-docentes/265-egueez-sarzosa-vicente-adrian?highlight=WyJlZ3VleiJd",
+      "/index.php/es/la-facultad/planta-docentes/355-recalde-cerda-lorena-katherine?highlight=WyJyZWNhbGRlIl0=",
+      "/index.php/es/la-facultad/planta-docentes/357-molina-bustamante-marco-eduardo?highlight=WyJtb2xpbmEiXQ==",
+      "/index.php/es/la-facultad/planta-docentes/375-andrade-paredes-roberto-omar/375-andrade-paredes-roberto-omar",
+      "/index.php/es/la-facultad/planta-docentes/375-andrade-paredes-roberto-omar?highlight=WyJhbmRyYWRlIl0=",
+      "/index.php/es/la-facultad/planta-docentes/377-barona-lopez-lorena-isabel?highlight=WyJiYXJvbmEiXQ==",
+      "/index.php/es/la-facultad/planta-docentes/380-martinez-mosquera-silvia-diana?highlight=WyJtYXJ0aW5leiJd",
+      "/index.php/es/la-facultad/planta-docentes/383-valdivieso-caraguay-angel-leonardo?highlight=WyJ2YWxkaXZpZXNvIl0=",
+      "/index.php/es/la-facultad/planta-docentes/385-villarroel-ramos-jorge-patricio?highlight=WyJ2aWxsYXJyb2VsIl0=",
+      "/index.php/es/maestrias/doctorado-en-informatica",
+      "/index.php/es/maestrias/maestria-en-ciberseguridad",
+      "/index.php/es/maestrias/maestria-en-inteligencia-artificial-art",
+      "/index.php/es/maestrias/maestria-en-tecnologia-e-innovacion-educativa",
+      "/index.php/es/oferta-academicafis/ciencia-de-datos-e-inteligencia-artificial",
+      "/index.php/es/oferta-academicafis/computacion",
+      "/index.php/es/oferta-academicafis/sistemas-de-informacion",
+      "/index.php/es/oferta-academicafis/software",
+      "https://fis.epn.edu.ec/",
+      "https://fis.epn.edu.ec/index.php/es/la-facultad/departamento-de-informatica-y-ciencias-de-la-computacion/grupos-de-investigacion",
+      "https://fis.epn.edu.ec/index.php/es/la-facultad/departamento-de-informatica-y-ciencias-de-la-computacion/proyectos-de-investigacion",
+      "https://fis.epn.edu.ec/index.php/es/la-facultad/departamento-de-informatica-y-ciencias-de-la-computacion/proyectos-de-vinculacion-y-proyeccion-social",
+      "https://lajc.epn.edu.ec/index.php/LAJC",
+      "https://www.facebook.com/fisepn",
+      "https://www.joomla-monster.com"
+    ],
+    "external_links": [
+      "https://lajc.epn.edu.ec/index.php/LAJC",
+      "https://www.facebook.com/fisepn",
+      "https://www.joomla-monster.com"
+    ],
+    "attachments": [],
+    "tables": [
+      {
+        "headers": [],
+        "rows": [
+          [
+            "PII-DICC-2023-01"
+          ],
+          [
+            "23 de enero de 2023"
+          ],
+          [
+            "22 de enero de 2024"
+          ]
+        ]
+      },
+      {
+        "headers": [],
+        "rows": [
+          [
+            "PII-DICC-2023-03"
+          ],
+          [
+            "-"
+          ],
+          [
+            "12 de noviembre de 2024"
+          ]
+        ]
+      },
+      {
+        "headers": [],
+        "rows": [
+          [
+            "PII-DICC-2023-05"
+          ],
+          [
+            "-"
+          ],
+          [
+            "26 de noviembre de 2024"
+          ]
+        ]
+      },
+      {
+        "headers": [],
+        "rows": [
+          [
+            "PII-DICC-2023-02"
+          ],
+          [
+            "22 de febrero de 2023"
+          ],
+          [
+            "21 de febrero de 2024"
+          ]
+        ]
+      },
+      {
+        "headers": [],
+        "rows": [
+          [
+            "PII-DICC-2022-02"
+          ],
+          [
+            "7 de noviembre de 2022"
+          ],
+          [
+            "6 de febrero de 2024"
+          ]
+        ]
+      },
+      {
+        "headers": [],
+        "rows": [
+          [
+            "PII-DICC-2023-04"
+          ],
+          [
+            "2023"
+          ],
+          [
+            "26 de noviembre de 2024"
+          ]
+        ]
+      },
+      {
+        "headers": [],
+        "rows": [
+          [
+            "PII-DICC-01-2017"
+          ],
+          [
+            "8 de mayo de 2017"
+          ],
+          [
+            "7 de mayo de 2018"
+          ]
+        ]
+      },
+      {
+        "headers": [],
+        "rows": [
+          [
+            "PII-DICC-03-2017"
+          ],
+          [
+            "17 de agosto de 2017"
+          ],
+          [
+            "16 de febrero de 2019"
+          ]
+        ]
+      },
+      {
+        "headers": [],
+        "rows": [
+          [
+            "PII-DICC-02-2017"
+          ],
+          [
+            "29 de mayo de 2017"
+          ],
+          [
+            "28 de septiembre de 2018"
+          ]
+        ]
+      },
+      {
+        "headers": [],
+        "rows": [
+          [
+            "PII-DICC-003-2016"
+          ],
+          [
+            "9 de enero de 2017"
+          ],
+          [
+            "8 de enero de 2018"
+          ]
+        ]
+      },
+      {
+        "headers": [],
+        "rows": [
+          [
+            "PII-DICC-01-2018"
+          ],
+          [
+            "12 de marzo de 2018"
+          ],
+          [
+            "11 de junio de 2019"
+          ]
+        ]
+      },
+      {
+        "headers": [],
+        "rows": [
+          [
+            "PII-DICC-02-2018"
+          ],
+          [
+            "7 de septiembre de 2018"
+          ],
+          [
+            "6 de septiembre de 2019"
+          ]
+        ]
+      },
+      {
+        "headers": [],
+        "rows": [
+          [
+            "PIIF-22-03"
+          ],
+          [
+            "26 de junio de 2023"
+          ],
+          [
+            "25 de junio de 2024"
+          ]
+        ]
+      },
+      {
+        "headers": [],
+        "rows": [
+          [
+            "PII-16-07"
+          ],
+          [
+            "17 de abril de 2017"
+          ],
+          [
+            "17 de abril de 2018"
+          ]
+        ]
+      },
+      {
+        "headers": [],
+        "rows": [
+          [
+            "PII-16-06"
+          ],
+          [
+            "17 de abril de 2017"
+          ],
+          [
+            "16 de agosto de 2018"
+          ]
+        ]
+      },
+      {
+        "headers": [],
+        "rows": [
+          [
+            "PII-16-04"
+          ],
+          [
+            "17 de abril de 2017"
+          ],
+          [
+            "16 de agosto de 2018"
+          ]
+        ]
+      },
+      {
+        "headers": [],
+        "rows": [
+          [
+            "PII-16-03"
+          ],
+          [
+            "17 de abril de 2017"
+          ],
+          [
+            "16 de septiembre de 2018"
+          ]
+        ]
+      },
+      {
+        "headers": [],
+        "rows": [
+          [
+            "PII-16-01"
+          ],
+          [
+            "17 de abril de 2017"
+          ],
+          [
+            "29 de junio de 2018"
+          ]
+        ]
+      },
+      {
+        "headers": [],
+        "rows": [
+          [
+            "PII-16-02"
+          ],
+          [
+            "17 de abril de 2017"
+          ],
+          [
+            "22 de junio de 2018"
+          ]
+        ]
+      },
+      {
+        "headers": [],
+        "rows": [
+          [
+            "PII-18-04"
+          ],
+          [
+            "1 de abril de 2019"
+          ],
+          [
+            "31 de junio de 2020"
+          ]
+        ]
+      },
+      {
+        "headers": [],
+        "rows": [
+          [
+            "PII-18-01"
+          ],
+          [
+            "1 de abril de 2019"
+          ],
+          [
+            "30 de junio de 2020"
+          ]
+        ]
+      },
+      {
+        "headers": [],
+        "rows": [
+          [
+            "PII-17-11"
+          ],
+          [
+            "9 de abril de 2018"
+          ],
+          [
+            "8 de octubre de 2019"
+          ]
+        ]
+      },
+      {
+        "headers": [],
+        "rows": [
+          [
+            "PII-17-14"
+          ],
+          [
+            "9 de abril de 2018"
+          ],
+          [
+            "8 de octubre de 2019"
+          ]
+        ]
+      },
+      {
+        "headers": [],
+        "rows": [
+          [
+            "PII-17-05"
+          ],
+          [
+            "9 de abril de 2018"
+          ],
+          [
+            "8 de abril de 2019"
+          ]
+        ]
+      },
+      {
+        "headers": [],
+        "rows": [
+          [
+            "PII-17-02"
+          ],
+          [
+            "9 de abril de 2018"
+          ],
+          [
+            "9 de abril de 2019"
+          ]
+        ]
+      },
+      {
+        "headers": [],
+        "rows": [
+          [
+            "PIEX-CEDIA-XVII-2022-27"
+          ],
+          [
+            "1 de enero de 2023"
+          ],
+          [
+            "1 de enero de 2024"
+          ]
+        ]
+      },
+      {
+        "headers": [],
+        "rows": [
+          [
+            "PIJ-16-13"
+          ],
+          [
+            "17 de abril de 2017"
+          ],
+          [
+            "16 de octubre de 2019"
+          ]
+        ]
+      },
+      {
+        "headers": [],
+        "rows": [
+          [
+            "PIJ-17-08"
+          ],
+          [
+            "9 de abril de 2018"
+          ],
+          [
+            "8 de julio de 2020"
+          ]
+        ]
+      },
+      {
+        "headers": [],
+        "rows": [
+          [
+            "PIS-22-14"
+          ],
+          [
+            "26 de junio de 2023"
+          ],
+          [
+            "25 de diciembre de 2024"
+          ]
+        ]
+      },
+      {
+        "headers": [],
+        "rows": [
+          [
+            "PIS-22-19"
+          ],
+          [
+            "26 de junio de 2023"
+          ],
+          [
+            "25 de diciembre de 2024"
+          ]
+        ]
+      },
+      {
+        "headers": [],
+        "rows": [
+          [
+            "PIS-22-20"
+          ],
+          [
+            "-"
+          ],
+          [
+            "25 de diciembre de 2024"
+          ]
+        ]
+      },
+      {
+        "headers": [],
+        "rows": [
+          [
+            "PIS-17-10"
+          ],
+          [
+            "13 de marzo de 2018"
+          ],
+          [
+            "13 de abril de 2020"
+          ]
+        ]
+      },
+      {
+        "headers": [],
+        "rows": [
+          [
+            "PIS-17-15"
+          ],
+          [
+            "9 de abril de 2018"
+          ],
+          [
+            "8 de octubre de 2019"
+          ]
+        ]
+      },
+      {
+        "headers": [],
+        "rows": [
+          [
+            "PTT-22-03"
+          ],
+          [
+            "26 de junio de 2023"
+          ],
+          [
+            "25 de diciembre de 2024"
+          ]
+        ]
+      }
+    ],
+    "list_items": []
+  },
+  "assets": {
+    "screenshot": "screenshot_003_externo.png",
+    "html_rendered": "html_rendered_003_externo.html"
+  }
+}

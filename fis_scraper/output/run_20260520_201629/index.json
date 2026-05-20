@@ -1,0 +1,98 @@
+{
+  "run_id": "run_20260520_201629",
+  "schema_version": "1.0",
+  "domain": "fis.epn.edu.ec",
+  "generated_at_utc": "2026-05-20T20:16:29.741670Z",
+  "selection": {
+    "mode": "cumulative",
+    "only_new_urls": true,
+    "pilot_limit": 30,
+    "batch_start": 0,
+    "batch_size": 5,
+    "scope_limit": 30,
+    "review_from": 0,
+    "review_to_exclusive": 5,
+    "new_urls_count": 5,
+    "new_urls": [
+      "https://fis.epn.edu.ec/index.php/es/category-list/734-charla-informativa-oportunidades-en-banco-de-guayaquil",
+      "https://fis.epn.edu.ec/index.php/es/category-list/735-sinergia-iii-feria-de-innovacion-y-transferencia-de-tecnologia",
+      "https://fis.epn.edu.ec/index.php/es/category-list/746-lajc-vol-xi-no-1-2024",
+      "https://fis.epn.edu.ec/index.php/es/category-list/772-podio-de-innovacion",
+      "https://fis.epn.edu.ec/index.php/es/category-list/792-doctorado-en-informatica-proceso-de-admision-2024-a"
+    ],
+    "selected_urls": 5,
+    "total_seed_urls": 116,
+    "seed_source": "input/urls_master.txt",
+    "excluded_urls_count": 5,
+    "excluded_source": "input/urls_excluded.txt"
+  },
+  "pages": [
+    {
+      "url": "https://fis.epn.edu.ec/index.php/es/category-list/734-charla-informativa-oportunidades-en-banco-de-guayaquil",
+      "url_hash": "c207822b6ea122e1",
+      "title": "Charla Informativa | Oportunidades en Banco de Guayaquil",
+      "states_captured": 1,
+      "external_links": [
+        "https://cedia.zoom.us/j/83791707033",
+        "https://forms.office.com/r/thkNkuRYYM",
+        "https://lajc.epn.edu.ec/index.php/LAJC",
+        "https://www.facebook.com/fisepn",
+        "https://www.joomla-monster.com"
+      ],
+      "attachments": []
+    },
+    {
+      "url": "https://fis.epn.edu.ec/index.php/es/category-list/735-sinergia-iii-feria-de-innovacion-y-transferencia-de-tecnologia",
+      "url_hash": "f13bf5b316caabea",
+      "title": "Sinergia III: Feria de Innovación y Transferencia de Tecnología",
+      "states_captured": 1,
+      "external_links": [
+        "https://lajc.epn.edu.ec/index.php/LAJC",
+        "https://www.facebook.com/fisepn",
+        "https://www.joomla-monster.com"
+      ],
+      "attachments": []
+    },
+    {
+      "url": "https://fis.epn.edu.ec/index.php/es/category-list/746-lajc-vol-xi-no-1-2024",
+      "url_hash": "3ce04c4f5615c6e0",
+      "title": "CALL FOR PAPERS (LAJC) Vol. XI No.1 – 2024",
+      "states_captured": 1,
+      "external_links": [
+        "https://lajc.epn.edu.ec/index.php/LAJC",
+        "https://lajc.epn.edu.ec/index.php/LAJC/poster",
+        "https://www.facebook.com/fisepn",
+        "https://www.joomla-monster.com"
+      ],
+      "attachments": []
+    },
+    {
+      "url": "https://fis.epn.edu.ec/index.php/es/category-list/772-podio-de-innovacion",
+      "url_hash": "fd65b0647cc25559",
+      "title": "Podio de Innovación",
+      "states_captured": 1,
+      "external_links": [
+        "https://lajc.epn.edu.ec/index.php/LAJC",
+        "https://www.facebook.com/fisepn",
+        "https://www.joomla-monster.com"
+      ],
+      "attachments": []
+    },
+    {
+      "url": "https://fis.epn.edu.ec/index.php/es/category-list/792-doctorado-en-informatica-proceso-de-admision-2024-a",
+      "url_hash": "852cbd78e6d4cf70",
+      "title": "DOCTORADO EN INFORMÁTICA | Proceso de Admisión 2024-A",
+      "states_captured": 1,
+      "external_links": [
+        "https://doctoradoinformatica.epn.edu.ec",
+        "https://doctoradoinformatica.epn.edu.ec/?fbclid=IwAR3JGHfg5RnnJdyUfruFnnpfXI_9UpB45xYsqflrHN5Hm2lMqlUXMMEp4QE",
+        "https://lajc.epn.edu.ec/index.php/LAJC",
+        "https://www.facebook.com/fisepn",
+        "https://www.joomla-monster.com"
+      ],
+      "attachments": []
+    }
+  ],
+  "closed_reason": "finished",
+  "total_pages": 5
+}

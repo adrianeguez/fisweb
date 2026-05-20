@@ -1,0 +1,80 @@
+{
+  "url": "https://fis.epn.edu.ec/index.php/es/category-list/126-informacion/311-nuestra-historia",
+  "state_id": "state_000_base",
+  "actions": [],
+  "content": {
+    "title": "Nuestra historia",
+    "h1": [],
+    "h2": [
+      "Nuestra historia"
+    ],
+    "h3": [],
+    "paragraphs": [
+      "En el año de 1985, debido al creciente desarrollo en el ámbito de la computación e informática, se crea la primera Facultad de Ingeniería de Sistemas en el país, con la finalidad de formar profesionales solventes en el desarrollo de software, manejo de sistemas computacionales, sistemas de información, y demás disciplinas relacionadas. La Maestría en Gestión de las Comunicaciones y Tecnologías de la Información de la EPN se creó en el año 2001 con el fin de formar profesionales capaces de gerenciar, analizar, sintetizar, seleccionar y aplicar eficazmente los procesos relacionados con las Comunicaciones y Tecnología de la Información.",
+      "Actualmente la Facultad cuenta con la siguiente oferta académica:",
+      "Carreras Pregrado",
+      "Carreras Posgrado",
+      "Facultad de Sistemas todos los derechos reservados",
+      "Back to top"
+    ],
+    "bold_texts": [
+      "Carreras Pregrado",
+      "Carreras",
+      "Posgrado"
+    ],
+    "links": [
+      "#",
+      "#jm-main",
+      "#jm-top-menu-nav",
+      "/index.php/es/",
+      "/index.php/es/category-list",
+      "/index.php/es/category-list/126-informacion",
+      "/index.php/es/category-list?fontsize=100",
+      "/index.php/es/category-list?fontsize=130",
+      "/index.php/es/category-list?fontsize=70",
+      "/index.php/es/docente",
+      "/index.php/es/estudiante",
+      "/index.php/es/investigacion/lineas-de-investigacion",
+      "/index.php/es/la-facultad/departamento-de-informatica-y-ciencias-de-la-computacion",
+      "/index.php/es/la-facultad/estructura-organica",
+      "/index.php/es/la-facultad/gestion-de-transferencia-tecnologica",
+      "/index.php/es/la-facultad/laboratorios",
+      "/index.php/es/la-facultad/laboratorios-de-investigacion",
+      "/index.php/es/la-facultad/planta-docentes",
+      "/index.php/es/maestrias/doctorado-en-informatica",
+      "/index.php/es/maestrias/maestria-en-ciberseguridad",
+      "/index.php/es/maestrias/maestria-en-inteligencia-artificial-art",
+      "/index.php/es/maestrias/maestria-en-tecnologia-e-innovacion-educativa",
+      "/index.php/es/oferta-academicafis/ciencia-de-datos-e-inteligencia-artificial",
+      "/index.php/es/oferta-academicafis/computacion",
+      "/index.php/es/oferta-academicafis/sistemas-de-informacion",
+      "/index.php/es/oferta-academicafis/software",
+      "https://fis.epn.edu.ec/",
+      "https://fis.epn.edu.ec/index.php/es/la-facultad/departamento-de-informatica-y-ciencias-de-la-computacion/grupos-de-investigacion",
+      "https://fis.epn.edu.ec/index.php/es/la-facultad/departamento-de-informatica-y-ciencias-de-la-computacion/proyectos-de-investigacion",
+      "https://fis.epn.edu.ec/index.php/es/la-facultad/departamento-de-informatica-y-ciencias-de-la-computacion/proyectos-de-vinculacion-y-proyeccion-social",
+      "https://lajc.epn.edu.ec/index.php/LAJC",
+      "https://www.facebook.com/fisepn",
+      "https://www.joomla-monster.com"
+    ],
+    "external_links": [
+      "https://lajc.epn.edu.ec/index.php/LAJC",
+      "https://www.facebook.com/fisepn",
+      "https://www.joomla-monster.com"
+    ],
+    "attachments": [],
+    "tables": [],
+    "list_items": [
+      "Ingeniería en Software",
+      "Ingeniería en Computación",
+      "Maestría en Software",
+      "Maestría en Ciencias de la Computación",
+      "Maestría en Sistemas de Información",
+      "Doctorado en Informática"
+    ]
+  },
+  "assets": {
+    "screenshot": "screenshot_000_base.png",
+    "html_rendered": "html_rendered_000_base.html"
+  }
+}

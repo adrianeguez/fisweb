@@ -1,0 +1,150 @@
+{
+  "url": "https://fis.epn.edu.ec/index.php/es/la-facultad/departamento-de-informatica-y-ciencias-de-la-computacion/proyectos-de-investigacion/147-proyectos-de-investigacion-internos/560-pii-16-06",
+  "state_id": "state_000_base",
+  "actions": [],
+  "content": {
+    "title": "Sistema de recomendación para revistas científicas abiertas utilizando tecnologías de Linked data",
+    "h1": [],
+    "h2": [
+      "Sistema de recomendación para revistas científicas abiertas utilizando tecnologías de Linked data"
+    ],
+    "h3": [
+      "La Facultad"
+    ],
+    "paragraphs": [
+      "Desarrollar un marco de trabajo para el desarrollo de sistemas de recomendación basados en contenido utilizando tecnologías de minería de datos y Linked Data.",
+      "Proceedings of 10th International Conference on Computer Supported Education (CSEDU2018)",
+      "Proceedings of II IEEE World Engineering Education Conference - EDUNINE 2018",
+      "Facultad de Sistemas todos los derechos reservados",
+      "Back to top"
+    ],
+    "bold_texts": [
+      "OBJETIVO GENERAL",
+      "OBJETIVOS ESPECÍFICOS",
+      "Título de la ponencia",
+      "Nombre del evento",
+      "País - Ciudad",
+      "Título de la ponencia",
+      "Nombre del evento",
+      "País - Ciudad",
+      "Título del proyecto de titulación",
+      "Nombre del tutor",
+      "Nombre del estudiante",
+      "Estado",
+      "Título del proyecto de titulación",
+      "Nombre del tutor",
+      "Nombre del estudiante",
+      "Estado"
+    ],
+    "links": [
+      "#",
+      "#jm-main",
+      "#jm-top-menu-nav",
+      "/index.php/es/",
+      "/index.php/es/docente",
+      "/index.php/es/estudiante",
+      "/index.php/es/investigacion/lineas-de-investigacion",
+      "/index.php/es/la-facultad/departamento-de-informatica-y-ciencias-de-la-computacion",
+      "/index.php/es/la-facultad/departamento-de-informatica-y-ciencias-de-la-computacion/grupos-de-investigacion",
+      "/index.php/es/la-facultad/departamento-de-informatica-y-ciencias-de-la-computacion/lineas-prioritarias-de-investigacion",
+      "/index.php/es/la-facultad/departamento-de-informatica-y-ciencias-de-la-computacion/planta-docente",
+      "/index.php/es/la-facultad/departamento-de-informatica-y-ciencias-de-la-computacion/proyectos-de-investigacion",
+      "/index.php/es/la-facultad/departamento-de-informatica-y-ciencias-de-la-computacion/proyectos-de-investigacion/147-proyectos-de-investigacion-internos",
+      "/index.php/es/la-facultad/departamento-de-informatica-y-ciencias-de-la-computacion/proyectos-de-investigacion?fontsize=100",
+      "/index.php/es/la-facultad/departamento-de-informatica-y-ciencias-de-la-computacion/proyectos-de-investigacion?fontsize=130",
+      "/index.php/es/la-facultad/departamento-de-informatica-y-ciencias-de-la-computacion/proyectos-de-investigacion?fontsize=70",
+      "/index.php/es/la-facultad/departamento-de-informatica-y-ciencias-de-la-computacion/proyectos-de-vinculacion-y-proyeccion-social",
+      "/index.php/es/la-facultad/estructura-organica",
+      "/index.php/es/la-facultad/gestion-de-transferencia-tecnologica",
+      "/index.php/es/la-facultad/laboratorios",
+      "/index.php/es/la-facultad/laboratorios-de-investigacion",
+      "/index.php/es/la-facultad/planta-docentes",
+      "/index.php/es/maestrias/doctorado-en-informatica",
+      "/index.php/es/maestrias/maestria-en-ciberseguridad",
+      "/index.php/es/maestrias/maestria-en-inteligencia-artificial-art",
+      "/index.php/es/maestrias/maestria-en-tecnologia-e-innovacion-educativa",
+      "/index.php/es/oferta-academicafis/ciencia-de-datos-e-inteligencia-artificial",
+      "/index.php/es/oferta-academicafis/computacion",
+      "/index.php/es/oferta-academicafis/sistemas-de-informacion",
+      "/index.php/es/oferta-academicafis/software",
+      "https://fis.epn.edu.ec/",
+      "https://fis.epn.edu.ec/index.php/es/la-facultad/departamento-de-informatica-y-ciencias-de-la-computacion/grupos-de-investigacion",
+      "https://fis.epn.edu.ec/index.php/es/la-facultad/departamento-de-informatica-y-ciencias-de-la-computacion/proyectos-de-investigacion",
+      "https://fis.epn.edu.ec/index.php/es/la-facultad/departamento-de-informatica-y-ciencias-de-la-computacion/proyectos-de-vinculacion-y-proyeccion-social",
+      "https://lajc.epn.edu.ec/index.php/LAJC",
+      "https://www.facebook.com/fisepn",
+      "https://www.joomla-monster.com"
+    ],
+    "external_links": [
+      "https://lajc.epn.edu.ec/index.php/LAJC",
+      "https://www.facebook.com/fisepn",
+      "https://www.joomla-monster.com"
+    ],
+    "attachments": [],
+    "tables": [
+      {
+        "headers": [],
+        "rows": [
+          [
+            "II IEEE World Engineering Education Conference - EDUNINE 2018"
+          ],
+          [
+            "Argentina, Buenos Aires"
+          ]
+        ]
+      },
+      {
+        "headers": [],
+        "rows": [
+          [
+            "10th International Conference on Computer Supported Education (CSEDU2018)"
+          ],
+          [
+            "Portugal, Funchai"
+          ]
+        ]
+      },
+      {
+        "headers": [],
+        "rows": [
+          [
+            "Dra. María Hallo"
+          ],
+          [
+            "Jonathan Pachacama, Lenin Montalvo"
+          ],
+          [
+            "Finalizado"
+          ]
+        ]
+      },
+      {
+        "headers": [],
+        "rows": [
+          [
+            "Dra. María Hallo"
+          ],
+          [
+            "María Fernanda Escobar"
+          ],
+          [
+            "Finalizado"
+          ]
+        ]
+      }
+    ],
+    "list_items": [
+      "Realizar el estudio del estado del arte relacionado con la investigación.",
+      "Desarrollar un marco de trabajo para el desarrollo de sistemas de recomendación con tecnologías de datos enlazados.",
+      "Desarrollar un prototipo de sistema de recomendación basado en el marco de trabajo desarrollado.",
+      "Enlazar el prototipo a revistas científicas digitales en línea.",
+      "Publicar los resultados de la investigación.",
+      "An Architecture to Enhance a Reference Management System with Recommendations from Open Linked Data",
+      "Automatic Extraction and Management of Open Access Bibliographic Information"
+    ]
+  },
+  "assets": {
+    "screenshot": "screenshot_000_base.png",
+    "html_rendered": "html_rendered_000_base.html"
+  }
+}

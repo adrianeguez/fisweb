@@ -1,0 +1,91 @@
+{
+  "run_id": "run_20260520_164044",
+  "schema_version": "1.0",
+  "domain": "fis.epn.edu.ec",
+  "generated_at_utc": "2026-05-20T16:40:44.478780Z",
+  "selection": {
+    "mode": "cumulative",
+    "only_new_urls": true,
+    "pilot_limit": 80,
+    "batch_start": 0,
+    "batch_size": 5,
+    "scope_limit": 80,
+    "review_from": 0,
+    "review_to_exclusive": 5,
+    "new_urls_count": 5,
+    "new_urls": [
+      "https://fis.epn.edu.ec/index.php/es/la-facultad/departamento-de-informatica-y-ciencias-de-la-computacion/proyectos-de-investigacion/148-proyectos-de-investigacion-internos-sin-financiamiento/784-pii-dicc-2023-05",
+      "https://fis.epn.edu.ec/index.php/es/la-facultad/departamento-de-informatica-y-ciencias-de-la-computacion/proyectos-de-investigacion/148-proyectos-de-investigacion-internos-sin-financiamiento/786-pii-dicc-2023-03",
+      "https://fis.epn.edu.ec/index.php/es/la-facultad/departamento-de-informatica-y-ciencias-de-la-computacion/proyectos-de-investigacion/148-proyectos-de-investigacion-internos-sin-financiamiento/787-pii-dicc-2023-01",
+      "https://fis.epn.edu.ec/index.php/es/la-facultad/departamento-de-informatica-y-ciencias-de-la-computacion/proyectos-de-vinculacion-y-proyeccion-social",
+      "https://fis.epn.edu.ec/index.php/es/la-facultad/departamento-de-informatica-y-ciencias-de-la-computacion/proyectos-de-vinculacion-y-proyeccion-social/120-vinculacion/571-pvs-2018-021"
+    ],
+    "selected_urls": 5,
+    "total_seed_urls": 121,
+    "seed_source": "input/urls_master.txt"
+  },
+  "pages": [
+    {
+      "url": "https://fis.epn.edu.ec/index.php/es/la-facultad/departamento-de-informatica-y-ciencias-de-la-computacion/proyectos-de-investigacion/148-proyectos-de-investigacion-internos-sin-financiamiento/784-pii-dicc-2023-05",
+      "url_hash": "b9071696e8e85eee",
+      "title": "Aplicación de Tecnologías Descentralizadas Web3 para Garantizar la Transparencia e Integridad de los Procesos de Escrutinios Electorales",
+      "states_captured": 1,
+      "external_links": [
+        "https://lajc.epn.edu.ec/index.php/LAJC",
+        "https://www.facebook.com/fisepn",
+        "https://www.joomla-monster.com"
+      ],
+      "attachments": []
+    },
+    {
+      "url": "https://fis.epn.edu.ec/index.php/es/la-facultad/departamento-de-informatica-y-ciencias-de-la-computacion/proyectos-de-investigacion/148-proyectos-de-investigacion-internos-sin-financiamiento/786-pii-dicc-2023-03",
+      "url_hash": "4573524d53a1ef09",
+      "title": "Evaluación de estrategias de persistencia políglota para optimizar OLAP sobre NoSQL en entornos de Big Data",
+      "states_captured": 1,
+      "external_links": [
+        "https://lajc.epn.edu.ec/index.php/LAJC",
+        "https://www.facebook.com/fisepn",
+        "https://www.joomla-monster.com"
+      ],
+      "attachments": []
+    },
+    {
+      "url": "https://fis.epn.edu.ec/index.php/es/la-facultad/departamento-de-informatica-y-ciencias-de-la-computacion/proyectos-de-investigacion/148-proyectos-de-investigacion-internos-sin-financiamiento/787-pii-dicc-2023-01",
+      "url_hash": "3e4e3030ad934620",
+      "title": "Evaluación de la representación de datos e información en entidades biológicas",
+      "states_captured": 1,
+      "external_links": [
+        "https://lajc.epn.edu.ec/index.php/LAJC",
+        "https://www.facebook.com/fisepn",
+        "https://www.joomla-monster.com"
+      ],
+      "attachments": []
+    },
+    {
+      "url": "https://fis.epn.edu.ec/index.php/es/la-facultad/departamento-de-informatica-y-ciencias-de-la-computacion/proyectos-de-vinculacion-y-proyeccion-social/120-vinculacion/571-pvs-2018-021",
+      "url_hash": "c6f76db07a193158",
+      "title": "Implementación del Smart Lab: Laboratorio de IoT y ciudades Inteligentes",
+      "states_captured": 1,
+      "external_links": [
+        "https://lajc.epn.edu.ec/index.php/LAJC",
+        "https://www.facebook.com/fisepn",
+        "https://www.joomla-monster.com"
+      ],
+      "attachments": []
+    },
+    {
+      "url": "https://fis.epn.edu.ec/index.php/es/la-facultad/departamento-de-informatica-y-ciencias-de-la-computacion/proyectos-de-vinculacion-y-proyeccion-social",
+      "url_hash": "f5c1a1c640fcaa74",
+      "title": "Proyectos de vinculación y proyección social",
+      "states_captured": 3,
+      "external_links": [
+        "https://lajc.epn.edu.ec/index.php/LAJC",
+        "https://www.facebook.com/fisepn",
+        "https://www.joomla-monster.com"
+      ],
+      "attachments": []
+    }
+  ],
+  "closed_reason": "finished",
+  "total_pages": 5
+}

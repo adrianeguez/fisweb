@@ -1,0 +1,103 @@
+{
+  "run_id": "run_20260520_163339",
+  "schema_version": "1.0",
+  "domain": "fis.epn.edu.ec",
+  "generated_at_utc": "2026-05-20T16:33:39.881903Z",
+  "selection": {
+    "mode": "cumulative",
+    "only_new_urls": true,
+    "pilot_limit": 60,
+    "batch_start": 0,
+    "batch_size": 5,
+    "scope_limit": 60,
+    "review_from": 0,
+    "review_to_exclusive": 5,
+    "new_urls_count": 5,
+    "new_urls": [
+      "https://fis.epn.edu.ec/index.php/es/la-facultad/departamento-de-informatica-y-ciencias-de-la-computacion/grupos-de-investigacion",
+      "https://fis.epn.edu.ec/index.php/es/la-facultad/departamento-de-informatica-y-ciencias-de-la-computacion/lineas-prioritarias-de-investigacion",
+      "https://fis.epn.edu.ec/index.php/es/la-facultad/departamento-de-informatica-y-ciencias-de-la-computacion/planta-docente",
+      "https://fis.epn.edu.ec/index.php/es/la-facultad/departamento-de-informatica-y-ciencias-de-la-computacion/proyectos-de-investigacion",
+      "https://fis.epn.edu.ec/index.php/es/la-facultad/departamento-de-informatica-y-ciencias-de-la-computacion/proyectos-de-investigacion/147-proyectos-de-investigacion-internos/556-pii-16-01"
+    ],
+    "selected_urls": 5,
+    "total_seed_urls": 121,
+    "seed_source": "input/urls_master.txt"
+  },
+  "pages": [
+    {
+      "url": "https://fis.epn.edu.ec/index.php/es/la-facultad/departamento-de-informatica-y-ciencias-de-la-computacion/grupos-de-investigacion",
+      "url_hash": "ac389e9afba8cb81",
+      "title": "Grupos de investigación",
+      "states_captured": 1,
+      "external_links": [
+        "https://lajc.epn.edu.ec/index.php/LAJC",
+        "https://www.facebook.com/fisepn",
+        "https://www.joomla-monster.com"
+      ],
+      "attachments": []
+    },
+    {
+      "url": "https://fis.epn.edu.ec/index.php/es/la-facultad/departamento-de-informatica-y-ciencias-de-la-computacion/lineas-prioritarias-de-investigacion",
+      "url_hash": "11b4a41a79c212e9",
+      "title": "Líneas Prioritarias de Investigación",
+      "states_captured": 1,
+      "external_links": [
+        "https://lajc.epn.edu.ec/index.php/LAJC",
+        "https://www.facebook.com/fisepn",
+        "https://www.joomla-monster.com"
+      ],
+      "attachments": []
+    },
+    {
+      "url": "https://fis.epn.edu.ec/index.php/es/la-facultad/departamento-de-informatica-y-ciencias-de-la-computacion/planta-docente",
+      "url_hash": "48f2cdf1b20a5e24",
+      "title": "Planta Docente",
+      "states_captured": 1,
+      "external_links": [
+        "https://lajc.epn.edu.ec/index.php/LAJC",
+        "https://orcid.org/0000-0001-5720-1960",
+        "https://orcid.org/0000-0001-7334-9113",
+        "https://orcid.org/0000-0002-5184-3759",
+        "https://orcid.org/0000-0002-5275-7262",
+        "https://orcid.org/0000-0002-7120-281X",
+        "https://orcid.org/0000-0002-8693-6111",
+        "https://orcid.org/0000-0002-8913-021X",
+        "https://orcid.org/0000-0003-0871-6954",
+        "https://orcid.org/0000-0003-4337-7433",
+        "https://orcid.org/0000-0003-4790-355X",
+        "https://www.facebook.com/fisepn",
+        "https://www.joomla-monster.com"
+      ],
+      "attachments": []
+    },
+    {
+      "url": "https://fis.epn.edu.ec/index.php/es/la-facultad/departamento-de-informatica-y-ciencias-de-la-computacion/proyectos-de-investigacion/147-proyectos-de-investigacion-internos/556-pii-16-01",
+      "url_hash": "2990df5f1e413f32",
+      "title": "Uso de microdatos para mejorar los resultados de búsqueda de recursos educativos abiertos accesibles",
+      "states_captured": 1,
+      "external_links": [
+        "http://www.rintonpress.com/journals/jweonline.html#v17n12",
+        "https://ieeexplore.ieee.org/document/8399222/",
+        "https://lajc.epn.edu.ec/index.php/LAJC",
+        "https://www.facebook.com/fisepn",
+        "https://www.joomla-monster.com"
+      ],
+      "attachments": []
+    },
+    {
+      "url": "https://fis.epn.edu.ec/index.php/es/la-facultad/departamento-de-informatica-y-ciencias-de-la-computacion/proyectos-de-investigacion",
+      "url_hash": "3dec927189a22346",
+      "title": "Proyectos de Investigación",
+      "states_captured": 6,
+      "external_links": [
+        "https://lajc.epn.edu.ec/index.php/LAJC",
+        "https://www.facebook.com/fisepn",
+        "https://www.joomla-monster.com"
+      ],
+      "attachments": []
+    }
+  ],
+  "closed_reason": "finished",
+  "total_pages": 5
+}

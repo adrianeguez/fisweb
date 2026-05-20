@@ -1,0 +1,98 @@
+{
+  "run_id": "run_20260520_201954",
+  "schema_version": "1.0",
+  "domain": "fis.epn.edu.ec",
+  "generated_at_utc": "2026-05-20T20:19:54.964067Z",
+  "selection": {
+    "mode": "cumulative",
+    "only_new_urls": true,
+    "pilot_limit": 45,
+    "batch_start": 0,
+    "batch_size": 5,
+    "scope_limit": 45,
+    "review_from": 0,
+    "review_to_exclusive": 5,
+    "new_urls_count": 5,
+    "new_urls": [
+      "https://fis.epn.edu.ec/index.php/es/category-list/840-new-lajc-edition-available",
+      "https://fis.epn.edu.ec/index.php/es/category-list/893-concurso-de-meritos-y-oposicion-tecnico-de-investigacion",
+      "https://fis.epn.edu.ec/index.php/es/category-list/894-mentores-fis",
+      "https://fis.epn.edu.ec/index.php/es/category-list/904-lajc-indexada-en-redalyc",
+      "https://fis.epn.edu.ec/index.php/es/category-list/910-formulario-bolsa-para-practicas-preprofesionales"
+    ],
+    "selected_urls": 5,
+    "total_seed_urls": 116,
+    "seed_source": "input/urls_master.txt",
+    "excluded_urls_count": 5,
+    "excluded_source": "input/urls_excluded.txt"
+  },
+  "pages": [
+    {
+      "url": "https://fis.epn.edu.ec/index.php/es/category-list/840-new-lajc-edition-available",
+      "url_hash": "451b707f85906df4",
+      "title": "NEW LAJC EDITION AVAILABLE",
+      "states_captured": 1,
+      "external_links": [
+        "https://l.facebook.com/l.php?u=https%3A%2F%2Flajc.epn.edu.ec%2F%3Ffbclid%3DIwZXh0bgNhZW0CMTAAAR3wukkPxIXWWOjIs1hkjSsJ4aBSlNJXSWPg68oYMfMWOFxrY4SrMr1QlGE_aem_gpOY7StbSOhaiieAn6mzDw&h=AT1-61U3_hfXFW7WODoR2JKkTm4s46I1BhIKeFEJqlnBZ6GYqPlcgyI3VfPiZpb1PdH6rv_1jiq2mqa32vQU65KHI5_Ibm9Qt_F1lyCrtuaHKWgkYcIPiUE-Xrwo-RYWHgjT&__tn__=-UK-R&c[0]=AT2aijFh36rK-MWExwByb5Pf45U7HAAA6QeXuD-adwjFd8WgphzmTGJr1-mAWWp0wlCTZVNIWlF6JmjycDjo_kcXtKhCKMXLNHjn-LKd2oVoXSsRmuVvG0PXRhwCL4XQBmvgrRxbB6KlCuzeIsOHrEvIzc9384wgQ-Fe_E1kl6aqSPe6Fht1sWoereq2sZSL0V0k-_m7d3phXLjBMJR70GUhhghR93L_jlyq1NEZbcl2iaLZn9VAVjke",
+        "https://lajc.epn.edu.ec",
+        "https://lajc.epn.edu.ec/index.php/LAJC",
+        "https://www.facebook.com/fisepn",
+        "https://www.joomla-monster.com"
+      ],
+      "attachments": []
+    },
+    {
+      "url": "https://fis.epn.edu.ec/index.php/es/category-list/893-concurso-de-meritos-y-oposicion-tecnico-de-investigacion",
+      "url_hash": "38a89543eeeab4ea",
+      "title": "Proceso de Selección - Técnico de Investigación",
+      "states_captured": 1,
+      "external_links": [
+        "https://epnecuador-my.sharepoint.com/:b:/g/personal/laboratorio_ia_epn_edu_ec/EXtmwY_G1ONGhbBFu_1ivpkBKvenWT_TZHeudYK_rfZM6g?e=c9dgRb",
+        "https://lajc.epn.edu.ec/index.php/LAJC",
+        "https://www.facebook.com/fisepn",
+        "https://www.joomla-monster.com"
+      ],
+      "attachments": []
+    },
+    {
+      "url": "https://fis.epn.edu.ec/index.php/es/category-list/894-mentores-fis",
+      "url_hash": "7a084605602a7041",
+      "title": "OPORTUNIDAD DE HORAS DE SERVICIO COMUNITARIO",
+      "states_captured": 1,
+      "external_links": [
+        "https://forms.office.com/r/XqMTMWwqNq",
+        "https://lajc.epn.edu.ec/index.php/LAJC",
+        "https://www.facebook.com/fisepn",
+        "https://www.joomla-monster.com"
+      ],
+      "attachments": []
+    },
+    {
+      "url": "https://fis.epn.edu.ec/index.php/es/category-list/904-lajc-indexada-en-redalyc",
+      "url_hash": "0d18c5c7010e8c8c",
+      "title": "La revista Latin-American Journal of Computing es aceptada en REDALYC",
+      "states_captured": 1,
+      "external_links": [
+        "https://lajc.epn.edu.ec/index.php/LAJC",
+        "https://www.facebook.com/fisepn",
+        "https://www.joomla-monster.com"
+      ],
+      "attachments": []
+    },
+    {
+      "url": "https://fis.epn.edu.ec/index.php/es/category-list/910-formulario-bolsa-para-practicas-preprofesionales",
+      "url_hash": "4b879aff3bb9ad44",
+      "title": "Formulario - Bolsa para Prácticas Preprofesionales 2026-A",
+      "states_captured": 1,
+      "external_links": [
+        "https://forms.office.com/r/b9pXCgKNHr",
+        "https://lajc.epn.edu.ec/index.php/LAJC",
+        "https://www.facebook.com/fisepn",
+        "https://www.joomla-monster.com"
+      ],
+      "attachments": []
+    }
+  ],
+  "closed_reason": "finished",
+  "total_pages": 5
+}

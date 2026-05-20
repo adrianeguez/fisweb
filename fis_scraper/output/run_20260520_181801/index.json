@@ -1,0 +1,30 @@
+{
+  "run_id": "run_20260520_181801",
+  "schema_version": "1.0",
+  "domain": "fis.epn.edu.ec",
+  "generated_at_utc": "2026-05-20T18:18:01.298752Z",
+  "selection": {
+    "mode": "cumulative",
+    "only_new_urls": false,
+    "pilot_limit": 5,
+    "batch_start": 0,
+    "batch_size": 5,
+    "scope_limit": 5,
+    "review_from": 0,
+    "review_to_exclusive": 5,
+    "new_urls_count": 5,
+    "new_urls": [
+      "https://fis.epn.edu.ec/index.php/es/la-facultad/planta-docentes/159-montenegro-armas-carlos-estalesmit",
+      "https://fis.epn.edu.ec/index.php/es/la-facultad/planta-docentes/182-hallo-carrasco-maria-asuncion",
+      "https://fis.epn.edu.ec/index.php/es/la-facultad/planta-docentes/201-loza-aguirre-edison-fernando",
+      "https://fis.epn.edu.ec/index.php/es/la-facultad/planta-docentes/207-tenemaza-vera-regina-maritzol",
+      "https://fis.epn.edu.ec/index.php/es/la-facultad/planta-docentes/385-villarroel-ramos-jorge-patricio"
+    ],
+    "selected_urls": 5,
+    "total_seed_urls": 5,
+    "seed_source": "input/urls_missing_retry.txt"
+  },
+  "pages": [],
+  "closed_reason": "shutdown",
+  "total_pages": 0
+}

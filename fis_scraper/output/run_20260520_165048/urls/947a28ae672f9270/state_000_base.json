@@ -1,0 +1,123 @@
+{
+  "url": "https://fis.epn.edu.ec/index.php/es/la-facultad/planta-docentes/204-calle-jimenez-tania-elizabeth",
+  "state_id": "state_000_base",
+  "actions": [],
+  "content": {
+    "title": "Calle Jiménez Tania Elizabeth",
+    "h1": [
+      "Planta docente"
+    ],
+    "h2": [],
+    "h3": [
+      "La Facultad"
+    ],
+    "paragraphs": [
+      "Facultad de Sistemas todos los derechos reservados",
+      "Back to top"
+    ],
+    "bold_texts": [
+      "Estudios",
+      "Línea prioritaria de investigación",
+      "Publicaciones"
+    ],
+    "links": [
+      "#",
+      "#jm-main",
+      "#jm-top-menu-nav",
+      "/index.php",
+      "/index.php/es/",
+      "/index.php/es/component/tags/tag/maestria-profesional-en-sistemas-de-informacion",
+      "/index.php/es/docente",
+      "/index.php/es/estudiante",
+      "/index.php/es/investigacion/lineas-de-investigacion",
+      "/index.php/es/la-facultad/departamento-de-informatica-y-ciencias-de-la-computacion",
+      "/index.php/es/la-facultad/estructura-organica",
+      "/index.php/es/la-facultad/gestion-de-transferencia-tecnologica",
+      "/index.php/es/la-facultad/laboratorios",
+      "/index.php/es/la-facultad/laboratorios-de-investigacion",
+      "/index.php/es/la-facultad/planta-docentes",
+      "/index.php/es/la-facultad/planta-docentes?filter_tag[0]=",
+      "/index.php/es/la-facultad/planta-docentes?fontsize=100",
+      "/index.php/es/la-facultad/planta-docentes?fontsize=130",
+      "/index.php/es/la-facultad/planta-docentes?fontsize=70",
+      "/index.php/es/maestrias/doctorado-en-informatica",
+      "/index.php/es/maestrias/maestria-en-ciberseguridad",
+      "/index.php/es/maestrias/maestria-en-inteligencia-artificial-art",
+      "/index.php/es/maestrias/maestria-en-tecnologia-e-innovacion-educativa",
+      "/index.php/es/oferta-academicafis/ciencia-de-datos-e-inteligencia-artificial",
+      "/index.php/es/oferta-academicafis/computacion",
+      "/index.php/es/oferta-academicafis/sistemas-de-informacion",
+      "/index.php/es/oferta-academicafis/software",
+      "https://doi.org/10.1007/978-3-030-20040-4_29",
+      "https://doi.org/10.1007/978-3-030-20040-4_33",
+      "https://doi.org/10.1007/978-3-030-51194-4_15",
+      "https://doi.org/10.1007/978-3-030-51328-3_48",
+      "https://doi.org/10.1007/978-3-030-51369-6_35",
+      "https://doi.org/10.1007/978-3-319-94334-3_21",
+      "https://doi.org/10.1007/978-3-319-94334-3_23",
+      "https://doi.org/10.1007/978-3-319-94334-3_24",
+      "https://doi.org/10.1109/ICBL.2015.7387647",
+      "https://doi.org/10.1109/ICI2ST.2019.00029",
+      "https://doi.org/10.1109/INCISCOS.2018.00037",
+      "https://doi.org/10.1145/2899475.2899516",
+      "https://doi.org/10.1145/2982142.2982201",
+      "https://doi.org/10.3390/app9030480",
+      "https://fis.epn.edu.ec/",
+      "https://fis.epn.edu.ec/index.php/es/la-facultad/departamento-de-informatica-y-ciencias-de-la-computacion/grupos-de-investigacion",
+      "https://fis.epn.edu.ec/index.php/es/la-facultad/departamento-de-informatica-y-ciencias-de-la-computacion/proyectos-de-investigacion",
+      "https://fis.epn.edu.ec/index.php/es/la-facultad/departamento-de-informatica-y-ciencias-de-la-computacion/proyectos-de-vinculacion-y-proyeccion-social",
+      "https://lajc.epn.edu.ec/index.php/LAJC",
+      "https://orcid.org/0000-0003-0871-6954",
+      "https://www.facebook.com/fisepn",
+      "https://www.joomla-monster.com",
+      "https://www.scopus.com/record/display.uri?eid=2-s2.0-85047635168&origin=inward&txGid=7d527c2329e3974d54ad9b54e9f790c4",
+      "https://www.scopus.com/record/display.uri?eid=2-s2.0-85052685313&origin=inward&txGid=f324e09ca9cfe15626e2238e632ea2be",
+      "mailto:tania.calle@epn.edu.ec"
+    ],
+    "external_links": [
+      "https://doi.org/10.1007/978-3-030-20040-4_29",
+      "https://doi.org/10.1007/978-3-030-20040-4_33",
+      "https://doi.org/10.1007/978-3-030-51194-4_15",
+      "https://doi.org/10.1007/978-3-030-51328-3_48",
+      "https://doi.org/10.1007/978-3-030-51369-6_35",
+      "https://doi.org/10.1007/978-3-319-94334-3_21",
+      "https://doi.org/10.1007/978-3-319-94334-3_23",
+      "https://doi.org/10.1007/978-3-319-94334-3_24",
+      "https://doi.org/10.1109/ICBL.2015.7387647",
+      "https://doi.org/10.1109/ICI2ST.2019.00029",
+      "https://doi.org/10.1109/INCISCOS.2018.00037",
+      "https://doi.org/10.1145/2899475.2899516",
+      "https://doi.org/10.1145/2982142.2982201",
+      "https://doi.org/10.3390/app9030480",
+      "https://lajc.epn.edu.ec/index.php/LAJC",
+      "https://orcid.org/0000-0003-0871-6954",
+      "https://www.facebook.com/fisepn",
+      "https://www.joomla-monster.com",
+      "https://www.scopus.com/record/display.uri?eid=2-s2.0-85047635168&origin=inward&txGid=7d527c2329e3974d54ad9b54e9f790c4",
+      "https://www.scopus.com/record/display.uri?eid=2-s2.0-85052685313&origin=inward&txGid=f324e09ca9cfe15626e2238e632ea2be"
+    ],
+    "attachments": [],
+    "tables": [
+      {
+        "headers": [],
+        "rows": [
+          [
+            "",
+            "",
+            "",
+            "Departamento de Informática y Ciencias de la Computación",
+            "",
+            "",
+            "Oficina: 209",
+            "",
+            "Ext: 4703"
+          ]
+        ]
+      }
+    ]
+  },
+  "assets": {
+    "screenshot": "screenshot_000_base.png",
+    "html_rendered": "html_rendered_000_base.html"
+  }
+}

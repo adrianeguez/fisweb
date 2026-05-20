@@ -1,0 +1,98 @@
+{
+  "run_id": "run_20260520_201440",
+  "schema_version": "1.0",
+  "domain": "fis.epn.edu.ec",
+  "generated_at_utc": "2026-05-20T20:14:40.925299Z",
+  "selection": {
+    "mode": "cumulative",
+    "only_new_urls": true,
+    "pilot_limit": 40,
+    "batch_start": 0,
+    "batch_size": 5,
+    "scope_limit": 40,
+    "review_from": 0,
+    "review_to_exclusive": 5,
+    "new_urls_count": 5,
+    "new_urls": [
+      "https://fis.epn.edu.ec/index.php/es/category-list/814-invitacion-bolsa-de-trabajo-epn-secure-soft-corp",
+      "https://fis.epn.edu.ec/index.php/es/category-list/820-elecciones-estudiantes-cd-2024",
+      "https://fis.epn.edu.ec/index.php/es/category-list/821-invitacion-jueves-cultural",
+      "https://fis.epn.edu.ec/index.php/es/category-list/830-convocatoria-abierta-cfp",
+      "https://fis.epn.edu.ec/index.php/es/category-list/832-tecnico-de-investigacion-laboratorio-ada"
+    ],
+    "selected_urls": 5,
+    "total_seed_urls": 116,
+    "seed_source": "input/urls_master.txt",
+    "excluded_urls_count": 5,
+    "excluded_source": "input/urls_excluded.txt"
+  },
+  "pages": [
+    {
+      "url": "https://fis.epn.edu.ec/index.php/es/category-list/814-invitacion-bolsa-de-trabajo-epn-secure-soft-corp",
+      "url_hash": "8a388dbf994b374d",
+      "title": "INVITACIÓN | Bolsa de Trabajo EPN SECURE SOFT CORP",
+      "states_captured": 1,
+      "external_links": [
+        "https://forms.office.com/r/VCBWDfEr7J",
+        "https://lajc.epn.edu.ec/index.php/LAJC",
+        "https://www.facebook.com/fisepn",
+        "https://www.joomla-monster.com"
+      ],
+      "attachments": []
+    },
+    {
+      "url": "https://fis.epn.edu.ec/index.php/es/category-list/820-elecciones-estudiantes-cd-2024",
+      "url_hash": "bc0949c027120cf6",
+      "title": "ELECCIONES ESTUDIANTES CD-2024",
+      "states_captured": 1,
+      "external_links": [
+        "https://lajc.epn.edu.ec/index.php/LAJC",
+        "https://voto.epn.edu.ec/",
+        "https://www.facebook.com/fisepn",
+        "https://www.joomla-monster.com"
+      ],
+      "attachments": []
+    },
+    {
+      "url": "https://fis.epn.edu.ec/index.php/es/category-list/821-invitacion-jueves-cultural",
+      "url_hash": "34727d2e8ad9e12c",
+      "title": "Invitación jueves cultural",
+      "states_captured": 1,
+      "external_links": [
+        "https://lajc.epn.edu.ec/index.php/LAJC",
+        "https://www.facebook.com/fisepn",
+        "https://www.joomla-monster.com"
+      ],
+      "attachments": []
+    },
+    {
+      "url": "https://fis.epn.edu.ec/index.php/es/category-list/830-convocatoria-abierta-cfp",
+      "url_hash": "a9b57ad023cc0272",
+      "title": "Convocatoria Abierta CFP",
+      "states_captured": 1,
+      "external_links": [
+        "https://lajc.epn.edu.ec/index.php/LAJC",
+        "https://lajc.epn.edu.ec/index.php/LAJC?fbclid=IwZXh0bgNhZW0CMTAAAR0tYOPUcRXRst3nn_WqyZXoP1AQXqu5vxLYBV72CHDaHMKG6NIw5bvFTbE_aem_4RvA3ZeA5uunRy5FG2Sihg",
+        "https://www.facebook.com/fisepn",
+        "https://www.joomla-monster.com"
+      ],
+      "attachments": []
+    },
+    {
+      "url": "https://fis.epn.edu.ec/index.php/es/category-list/832-tecnico-de-investigacion-laboratorio-ada",
+      "url_hash": "5732b538f01cf967",
+      "title": "Técnico de Investigación - Laboratorio ADA",
+      "states_captured": 1,
+      "external_links": [
+        "https://lajc.epn.edu.ec/index.php/LAJC",
+        "https://www.facebook.com/fisepn",
+        "https://www.joomla-monster.com"
+      ],
+      "attachments": [
+        "https://www.epn.edu.ec/wp-content/uploads/2021/09/codificacion_directrices_contratacion_rcp_280_2019-signed.pdf"
+      ]
+    }
+  ],
+  "closed_reason": "finished",
+  "total_pages": 5
+}

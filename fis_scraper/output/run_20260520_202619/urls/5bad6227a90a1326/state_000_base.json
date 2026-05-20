@@ -1,0 +1,89 @@
+{
+  "url": "https://fis.epn.edu.ec/index.php/es/la-facultad/departamento-de-informatica-y-ciencias-de-la-computacion/proyectos-de-investigacion/148-proyectos-de-investigacion-internos-sin-financiamiento/684-pii-dicc-01-2017",
+  "state_id": "state_000_base",
+  "actions": [],
+  "content": {
+    "title": "Detección de las inhalaciones en la señal acústica del habla en el idioma francés",
+    "h1": [],
+    "h2": [
+      "Detección de las inhalaciones en la señal acústica del habla en el idioma francés"
+    ],
+    "h3": [
+      "La Facultad"
+    ],
+    "paragraphs": [
+      "Detectar automáticamente las inhalaciones en la señal acústica del habla en el idioma francés.",
+      "I Congreso Internacional de Ingeniería de Software y Sistemas de Información (ICI2ST-JISIC2019).",
+      "https://ieeexplore.ieee.org/document/8940372",
+      "Facultad de Sistemas todos los derechos reservados",
+      "Back to top"
+    ],
+    "bold_texts": [
+      "OBJETIVO GENERAL",
+      "OBJETIVOS ESPECÍFICOS"
+    ],
+    "links": [
+      "#",
+      "#jm-main",
+      "#jm-top-menu-nav",
+      "/index.php/es/",
+      "/index.php/es/docente",
+      "/index.php/es/estudiante",
+      "/index.php/es/investigacion/lineas-de-investigacion",
+      "/index.php/es/la-facultad/departamento-de-informatica-y-ciencias-de-la-computacion",
+      "/index.php/es/la-facultad/departamento-de-informatica-y-ciencias-de-la-computacion/grupos-de-investigacion",
+      "/index.php/es/la-facultad/departamento-de-informatica-y-ciencias-de-la-computacion/lineas-prioritarias-de-investigacion",
+      "/index.php/es/la-facultad/departamento-de-informatica-y-ciencias-de-la-computacion/planta-docente",
+      "/index.php/es/la-facultad/departamento-de-informatica-y-ciencias-de-la-computacion/proyectos-de-investigacion",
+      "/index.php/es/la-facultad/departamento-de-informatica-y-ciencias-de-la-computacion/proyectos-de-investigacion/148-proyectos-de-investigacion-internos-sin-financiamiento",
+      "/index.php/es/la-facultad/departamento-de-informatica-y-ciencias-de-la-computacion/proyectos-de-investigacion?fontsize=100",
+      "/index.php/es/la-facultad/departamento-de-informatica-y-ciencias-de-la-computacion/proyectos-de-investigacion?fontsize=130",
+      "/index.php/es/la-facultad/departamento-de-informatica-y-ciencias-de-la-computacion/proyectos-de-investigacion?fontsize=70",
+      "/index.php/es/la-facultad/departamento-de-informatica-y-ciencias-de-la-computacion/proyectos-de-vinculacion-y-proyeccion-social",
+      "/index.php/es/la-facultad/estructura-organica",
+      "/index.php/es/la-facultad/gestion-de-transferencia-tecnologica",
+      "/index.php/es/la-facultad/laboratorios",
+      "/index.php/es/la-facultad/laboratorios-de-investigacion",
+      "/index.php/es/la-facultad/planta-docentes",
+      "/index.php/es/maestrias/doctorado-en-informatica",
+      "/index.php/es/maestrias/maestria-en-ciberseguridad",
+      "/index.php/es/maestrias/maestria-en-inteligencia-artificial-art",
+      "/index.php/es/maestrias/maestria-en-tecnologia-e-innovacion-educativa",
+      "/index.php/es/oferta-academicafis/ciencia-de-datos-e-inteligencia-artificial",
+      "/index.php/es/oferta-academicafis/computacion",
+      "/index.php/es/oferta-academicafis/sistemas-de-informacion",
+      "/index.php/es/oferta-academicafis/software",
+      "https://fis.epn.edu.ec/",
+      "https://fis.epn.edu.ec/index.php/es/la-facultad/departamento-de-informatica-y-ciencias-de-la-computacion/grupos-de-investigacion",
+      "https://fis.epn.edu.ec/index.php/es/la-facultad/departamento-de-informatica-y-ciencias-de-la-computacion/proyectos-de-investigacion",
+      "https://fis.epn.edu.ec/index.php/es/la-facultad/departamento-de-informatica-y-ciencias-de-la-computacion/proyectos-de-vinculacion-y-proyeccion-social",
+      "https://ieeexplore.ieee.org/document/8940372",
+      "https://lajc.epn.edu.ec/index.php/LAJC",
+      "https://www.facebook.com/fisepn",
+      "https://www.joomla-monster.com"
+    ],
+    "external_links": [
+      "https://ieeexplore.ieee.org/document/8940372",
+      "https://lajc.epn.edu.ec/index.php/LAJC",
+      "https://www.facebook.com/fisepn",
+      "https://www.joomla-monster.com"
+    ],
+    "attachments": [],
+    "tables": [],
+    "list_items": [
+      "Publicar el artículo en revista/conferencia indexada.",
+      "Extraer los conjuntos de las características acústicas de ambos tipos de señales.",
+      "Segmentar manualmente un corpus acústico separando los fragmentos de habla de las inhalaciones.",
+      "Realizar experimentos a partir del método propuesto.",
+      "Analizar las características acústicas de las inhalaciones y del habla.",
+      "Proponer un método para la discriminación de las inhalaciones y del habla en la señal acústica.",
+      "Analizar los resultados del método propuesto y compararlos con los de un sistema baseline.",
+      "Escribir un artículo científico.",
+      "Modeling Inhalation in Voice Activity Detection"
+    ]
+  },
+  "assets": {
+    "screenshot": "screenshot_000_base.png",
+    "html_rendered": "html_rendered_000_base.html"
+  }
+}

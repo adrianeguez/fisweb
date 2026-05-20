@@ -1,0 +1,82 @@
+{
+  "url": "https://fis.epn.edu.ec/index.php/es/la-facultad/departamento-de-informatica-y-ciencias-de-la-computacion/proyectos-de-investigacion/148-proyectos-de-investigacion-internos-sin-financiamiento/777-pii-dicc-2023-04",
+  "state_id": "state_000_base",
+  "actions": [],
+  "content": {
+    "title": "Diseño de un modelo de recomendación de tópicos para grupos de investigadores basado en el análisis de procesos de colaboración y consenso",
+    "h1": [],
+    "h2": [
+      "Diseño de un modelo de recomendación de tópicos para grupos de investigadores basado en el análisis de procesos de colaboración y consenso"
+    ],
+    "h3": [
+      "La Facultad"
+    ],
+    "paragraphs": [
+      "Diseñar un modelo de recomendación de contenido para grupos de investigadores centrado en tópicos y minería de texto con enfoque en el análisis de procesos de colaboración y consenso",
+      "Facultad de Sistemas todos los derechos reservados",
+      "Back to top"
+    ],
+    "bold_texts": [
+      "OBJETIVO GENERAL",
+      "OBJETIVOS ESPECÍFICOS"
+    ],
+    "links": [
+      "#",
+      "#jm-main",
+      "#jm-top-menu-nav",
+      "/index.php/es/",
+      "/index.php/es/docente",
+      "/index.php/es/estudiante",
+      "/index.php/es/investigacion/lineas-de-investigacion",
+      "/index.php/es/la-facultad/departamento-de-informatica-y-ciencias-de-la-computacion",
+      "/index.php/es/la-facultad/departamento-de-informatica-y-ciencias-de-la-computacion/grupos-de-investigacion",
+      "/index.php/es/la-facultad/departamento-de-informatica-y-ciencias-de-la-computacion/lineas-prioritarias-de-investigacion",
+      "/index.php/es/la-facultad/departamento-de-informatica-y-ciencias-de-la-computacion/planta-docente",
+      "/index.php/es/la-facultad/departamento-de-informatica-y-ciencias-de-la-computacion/proyectos-de-investigacion",
+      "/index.php/es/la-facultad/departamento-de-informatica-y-ciencias-de-la-computacion/proyectos-de-investigacion/148-proyectos-de-investigacion-internos-sin-financiamiento",
+      "/index.php/es/la-facultad/departamento-de-informatica-y-ciencias-de-la-computacion/proyectos-de-investigacion?fontsize=100",
+      "/index.php/es/la-facultad/departamento-de-informatica-y-ciencias-de-la-computacion/proyectos-de-investigacion?fontsize=130",
+      "/index.php/es/la-facultad/departamento-de-informatica-y-ciencias-de-la-computacion/proyectos-de-investigacion?fontsize=70",
+      "/index.php/es/la-facultad/departamento-de-informatica-y-ciencias-de-la-computacion/proyectos-de-vinculacion-y-proyeccion-social",
+      "/index.php/es/la-facultad/estructura-organica",
+      "/index.php/es/la-facultad/gestion-de-transferencia-tecnologica",
+      "/index.php/es/la-facultad/laboratorios",
+      "/index.php/es/la-facultad/laboratorios-de-investigacion",
+      "/index.php/es/la-facultad/planta-docentes",
+      "/index.php/es/maestrias/doctorado-en-informatica",
+      "/index.php/es/maestrias/maestria-en-ciberseguridad",
+      "/index.php/es/maestrias/maestria-en-inteligencia-artificial-art",
+      "/index.php/es/maestrias/maestria-en-tecnologia-e-innovacion-educativa",
+      "/index.php/es/oferta-academicafis/ciencia-de-datos-e-inteligencia-artificial",
+      "/index.php/es/oferta-academicafis/computacion",
+      "/index.php/es/oferta-academicafis/sistemas-de-informacion",
+      "/index.php/es/oferta-academicafis/software",
+      "https://fis.epn.edu.ec/",
+      "https://fis.epn.edu.ec/index.php/es/la-facultad/departamento-de-informatica-y-ciencias-de-la-computacion/grupos-de-investigacion",
+      "https://fis.epn.edu.ec/index.php/es/la-facultad/departamento-de-informatica-y-ciencias-de-la-computacion/proyectos-de-investigacion",
+      "https://fis.epn.edu.ec/index.php/es/la-facultad/departamento-de-informatica-y-ciencias-de-la-computacion/proyectos-de-vinculacion-y-proyeccion-social",
+      "https://lajc.epn.edu.ec/index.php/LAJC",
+      "https://www.facebook.com/fisepn",
+      "https://www.joomla-monster.com"
+    ],
+    "external_links": [
+      "https://lajc.epn.edu.ec/index.php/LAJC",
+      "https://www.facebook.com/fisepn",
+      "https://www.joomla-monster.com"
+    ],
+    "attachments": [],
+    "tables": [],
+    "list_items": [
+      "Revisar el estado del arte sobre la recomendación de contenido centrado en tópicos y el sesgo en Sistemas de Recomendación Grupal (GRS).",
+      "Definir el enfoque experimental según la metodología de investigación y los conjuntos de datos que puedan emplearse.",
+      "Realizar un análisis descriptivo de datos para caracterizar los grupos encontrados en el dataset.",
+      "Modelar los grupos de manera que su perfil sea el resultado de la agregación de las preferencias individuales.",
+      "Aplicar los diferentes algoritmos de recomendación grupal de tópicos que se adapten al escenario de experimentación.",
+      "Evaluar los resultados en base a métricas usadas en los GRS, para comparar su desempeño y culminar con la etapa de diseño del modelo"
+    ]
+  },
+  "assets": {
+    "screenshot": "screenshot_000_base.png",
+    "html_rendered": "html_rendered_000_base.html"
+  }
+}

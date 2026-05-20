@@ -1,0 +1,484 @@
+{
+  "url": "https://fis.epn.edu.ec/index.php/es/oferta-academicafis/ciencia-de-datos-e-inteligencia-artificial",
+  "state_id": "state_000_base",
+  "actions": [],
+  "content": {
+    "title": "Ciencia de Datos e Inteligencia Artificial",
+    "h1": [],
+    "h2": [],
+    "h3": [
+      "Pregrado"
+    ],
+    "paragraphs": [
+      "Serás responsable de analizar grandes volúmenes de datos y desarrollar modelos de inteligencia artificial para mejorar la toma de decisiones y optimizar procesos. Tu trabajo incluye la programación de algoritmos, el análisis predictivo y el diseño de soluciones basadas en aprendizaje automático. Podrás trabajar en empresas tecnológicas, consultoras de datos, sectores de salud, finanzas, marketing y cualquier industria que utilice datos para impulsar la innovación.",
+      "Del “Saber Conocer” del profesional :",
+      "Del “Saber Hacer” del profesional :",
+      "Generales",
+      "RG1. Demostrar una formación humanística, íntegra, transparente, ética, inclusiva y responsable para desarrollar productos y servicios digitales aplicando técnicas y herramientas de ciencia de datos e inteligencia artificial.",
+      "RG2. Demostrar capacidad de trabajo en equipo en proyectos de ciencia de datos e inteligencia artificial alineados a los grandes objetivos nacionales, en los sectores público y privado, desempeñándose bajo protocolos de privacidad, honestidad, ética, responsabilidad, conciencia social y respeto al medio ambiente.",
+      "Específicos",
+      "RE1. Demostrar sólidos conocimientos teóricos de las áreas de matemáticas, estadística y ciencias de la computación para realizar el análisis de datos convencionales y masivos que apoyen a la toma de decisiones organizacionales, o que resuelvan problemas relacionados con la falta de información y conocimiento.",
+      "RE2. Identificar metodologías de investigación adecuadas para abordar problemas y retos nacionales o mundiales que implican innovación de la ciencia de datos e inteligencia artificial.",
+      "RE3. Aplicar conocimientos y destrezas en el uso eficiente de herramientas y plataformas tecnológicas que apoyan la construcción de sistemas de análisis de datos en los niveles descriptivo, predictivo y prescriptivo, para enfrentar con solvencia los retos asociados a problemáticas locales, regionales e internacionales.",
+      "RE4. Liderar proyectos de descubrimiento de conocimiento para mejorar los procesos, productos y servicios de la organización mediante el entendimiento del negocio, preparación de los datos, modelado, evaluación y despliegue del proyecto.",
+      "RE5. Desarrollar la capacidad de autoformación y capacitación continua, en los ámbitos teórico y práctico, tanto de la ciencia como de las tecnologías propias del área, para ser competitivo ante el incesante avance científico-tecnológico, a fin de proponer las mejores soluciones a los problemas relacionados con el tratamiento de datos.",
+      "Ver malla curricular .",
+      "Ver diseño curricular.",
+      "El currículo tiene 6480 horas, de las cuales 2000 corresponden a aprendizaje en contacto con el docente, 2384 corresponden a aprendizaje autónomo, 1520 corresponden a aprendizaje práctico-experimental, 240 corresponden a prácticas pre-profesionales, 96 corresponden a servicio comunitario y 240 corresponden a unidad de integración curricular.",
+      "Facultad de Sistemas todos los derechos reservados",
+      "Back to top"
+    ],
+    "bold_texts": [],
+    "links": [
+      "#",
+      "#jm-main",
+      "#jm-top-menu-nav",
+      "/images/PEAS_CIENCIA_DATOS/1.-MATD113-Algebra-Lineal.pdf",
+      "/images/PEAS_CIENCIA_DATOS/10.-ICCD332-Arquitectura-de-Computadores.pdf",
+      "/images/PEAS_CIENCIA_DATOS/11.-CSHD211-Analisis-Socioeconomico-y-Politico-del-Ecuador.pdf",
+      "/images/PEAS_CIENCIA_DATOS/12.-MATD223-Probabilidad-y-Estadistica-Basicas.pdf",
+      "/images/PEAS_CIENCIA_DATOS/13.-ICCD323-Sistemas-Operativos_act-feb24.pdf",
+      "/images/PEAS_CIENCIA_DATOS/14.-ISWD453-Fundamentos-de-bases-de-datos_act_jul25.pdf",
+      "/images/PEAS_CIENCIA_DATOS/15.-ICCD343-Estructura-de-datos-y-algoritmos-I_act_jul25.pdf",
+      "/images/PEAS_CIENCIA_DATOS/16.-ICCD353-Fundamentos-de-Redes-y-Conectividad_act-feb24.pdf",
+      "/images/PEAS_CIENCIA_DATOS/17.-IDSD413-Fundamentos-de-Big-Data.pdf",
+      "/images/PEAS_CIENCIA_DATOS/18.-IDSD422-Estadistica-y-Programacion-para-Ciencia-de-DatosI.pdf",
+      "/images/PEAS_CIENCIA_DATOS/2.-MATD123-Calculo-en-una-Variable.pdf",
+      "/images/PEAS_CIENCIA_DATOS/20.-ICCD442-Estructura-de-Datos-y-Algoritmos-II_act_jul25.pdf",
+      "/images/PEAS_CIENCIA_DATOS/21.-ISWD553-Bases-de-Datos-Distribuidas_act-feb24.pdf",
+      "/images/PEAS_CIENCIA_DATOS/22.-CSHD300-Asignatura-de-Artes-y-Humanidades.pdf",
+      "/images/PEAS_CIENCIA_DATOS/23.-IDSD513-Infraestructura-para-Big-Data_act-feb24.pdf",
+      "/images/PEAS_CIENCIA_DATOS/24.-IDSD522-Estadistica-y-Programacion-para-CienciadeDatosII.pdf",
+      "/images/PEAS_CIENCIA_DATOS/25.-IDSD533-Computacion-Numerica.pdf",
+      "/images/PEAS_CIENCIA_DATOS/26.-ICCD523-Inteligencia-Artificial_act-feb24.pdf",
+      "/images/PEAS_CIENCIA_DATOS/27.-ISID432-Desarrollo-y-Mantenimiento-de-Software.pdf",
+      "/images/PEAS_CIENCIA_DATOS/28.-CSHD400-Asignatura-de-Economia-y-Sociedad.pdf",
+      "/images/PEAS_CIENCIA_DATOS/29.-ADMD511-Gestion-Organizacional.pdf",
+      "/images/PEAS_CIENCIA_DATOS/3.-FISD134-Mecanica-Newtoniana.pdf",
+      "/images/PEAS_CIENCIA_DATOS/30.-IDSD613-Almacenamiento-de-Datos-Masivos.pdf",
+      "/images/PEAS_CIENCIA_DATOS/31.-IDSD623-Computacin-Paralela-para-Big-Data_act-feb24.pdf",
+      "/images/PEAS_CIENCIA_DATOS/32.-IDSD633-Aprendizaje-Automatico-I.pdf",
+      "/images/PEAS_CIENCIA_DATOS/33.-ISWD613-Aplicaciones-Web_act-feb24.pdf",
+      "/images/PEAS_CIENCIA_DATOS/34.-ICCD643-Tecnologas-de-Seguridad_act-feb24.pdf",
+      "/images/PEAS_CIENCIA_DATOS/35.-IDSD713-Procesamiento-de-Datos-Masivos_act-feb24.pdf",
+      "/images/PEAS_CIENCIA_DATOS/36.-IDSD723-Aprendizaje-Automtico-II_act-feb24.pdf",
+      "/images/PEAS_CIENCIA_DATOS/37.-IDSD733-Mineria-de-Datos-I_act-feb24.pdf",
+      "/images/PEAS_CIENCIA_DATOS/38.-IDSD742-Seguridad-y-Privacidad-de-Datos.pdf",
+      "/images/PEAS_CIENCIA_DATOS/39.-ISID642-User-Experience.pdf",
+      "/images/PEAS_CIENCIA_DATOS/4.-ICCD144-Programacion-I_act_jul25.pdf",
+      "/images/PEAS_CIENCIA_DATOS/40.-ADMD611-Gestion-de-Procesos-y-Calidad.pdf",
+      "/images/PEAS_CIENCIA_DATOS/41.-ADMD711-Ingenieria-Financiera.pdf",
+      "/images/PEAS_CIENCIA_DATOS/42.-IDSD813-Visualizacion-de-Datos_act-feb24.pdf",
+      "/images/PEAS_CIENCIA_DATOS/43.-IDSD823-Servicios-en-la-Nube-para-Big-Data_act-feb24.pdf",
+      "/images/PEAS_CIENCIA_DATOS/44.-IDSD833-Mineria-de-Datos-II_act-feb24.pdf",
+      "/images/PEAS_CIENCIA_DATOS/45.-IDSD843-Analtica-Avanzada_act-feb24.pdf",
+      "/images/PEAS_CIENCIA_DATOS/46.-ICCD842-Profesionalismo-en-informatica_act_jul25.pdf",
+      "/images/PEAS_CIENCIA_DATOS/47.-TITD104-Diseno-de-Trabajo-de-Integracion.pdf",
+      "/images/PEAS_CIENCIA_DATOS/49.-IDSD933-Aplicaciones-Emergentes-de-CD_act-feb24.pdf",
+      "/images/PEAS_CIENCIA_DATOS/5.-CSHD111-Comunicacion-Oral-y-Escrita.pdf",
+      "/images/PEAS_CIENCIA_DATOS/50.-IDSD942-Administracion-de-Proyectos-de-Ciencia-de-Datos.pdf",
+      "/images/PEAS_CIENCIA_DATOS/6.-MATD213-Ecuaciones-Diferenciales-Ordinarias.pdf",
+      "/images/PEAS_CIENCIA_DATOS/7.-ISID223-Introduccion-a-los-Sistemas-de-Informacion.pdf",
+      "/images/PEAS_CIENCIA_DATOS/8.-ISID232-Fundamentos-de-Ciencias-de-la-Computacion.pdf",
+      "/images/PEAS_CIENCIA_DATOS/9.-ICCD244-Programacin-II_act-feb24.pdf",
+      "/images/PEAS_CIENCIA_DATOS/ADMD700-Emprendimiento.pdf",
+      "/images/PEAS_CIENCIA_DATOS/ADMD800-Formulacion-y-Evaluacion-de-Proyectos.pdf",
+      "/images/PEAS_CIENCIA_DATOS/AMBD900-Ecologia-y-Ambiente.pdf",
+      "/images/PEAS_CIENCIA_DATOS/CSHD500-Asignatura-de-Comunicacion.pdf",
+      "/images/PEAS_CIENCIA_DATOS/DEPD110-Deportes.pdf",
+      "/images/PEAS_CIENCIA_DATOS/ICCD422-Compiladores-y-Lenguajes_act-2026.pdf",
+      "/images/PEAS_CIENCIA_DATOS/SOCD210-Clubes.pdf",
+      "/images/mallas_curriculares/2024/Diseno-curricular-Ciencia-datos-inteligencia-artificial.pdf",
+      "/images/mallas_curriculares/2024/malla_ciencia_datos_IA.pdf",
+      "/index.php/es/",
+      "/index.php/es/docente",
+      "/index.php/es/estudiante",
+      "/index.php/es/investigacion/lineas-de-investigacion",
+      "/index.php/es/la-facultad/departamento-de-informatica-y-ciencias-de-la-computacion",
+      "/index.php/es/la-facultad/estructura-organica",
+      "/index.php/es/la-facultad/gestion-de-transferencia-tecnologica",
+      "/index.php/es/la-facultad/laboratorios",
+      "/index.php/es/la-facultad/laboratorios-de-investigacion",
+      "/index.php/es/la-facultad/planta-docentes",
+      "/index.php/es/maestrias/doctorado-en-informatica",
+      "/index.php/es/maestrias/maestria-en-ciberseguridad",
+      "/index.php/es/maestrias/maestria-en-inteligencia-artificial-art",
+      "/index.php/es/maestrias/maestria-en-tecnologia-e-innovacion-educativa",
+      "/index.php/es/oferta-academicafis/ciencia-de-datos-e-inteligencia-artificial",
+      "/index.php/es/oferta-academicafis/ciencia-de-datos-e-inteligencia-artificial?fontsize=100",
+      "/index.php/es/oferta-academicafis/ciencia-de-datos-e-inteligencia-artificial?fontsize=130",
+      "/index.php/es/oferta-academicafis/ciencia-de-datos-e-inteligencia-artificial?fontsize=70",
+      "/index.php/es/oferta-academicafis/computacion",
+      "/index.php/es/oferta-academicafis/sistemas-de-informacion",
+      "/index.php/es/oferta-academicafis/software",
+      "https://fis.epn.edu.ec/",
+      "https://fis.epn.edu.ec/index.php/es/la-facultad/departamento-de-informatica-y-ciencias-de-la-computacion/grupos-de-investigacion",
+      "https://fis.epn.edu.ec/index.php/es/la-facultad/departamento-de-informatica-y-ciencias-de-la-computacion/proyectos-de-investigacion",
+      "https://fis.epn.edu.ec/index.php/es/la-facultad/departamento-de-informatica-y-ciencias-de-la-computacion/proyectos-de-vinculacion-y-proyeccion-social",
+      "https://lajc.epn.edu.ec/index.php/LAJC",
+      "https://www.facebook.com/fisepn",
+      "https://www.joomla-monster.com"
+    ],
+    "external_links": [
+      "https://lajc.epn.edu.ec/index.php/LAJC",
+      "https://www.facebook.com/fisepn",
+      "https://www.joomla-monster.com"
+    ],
+    "attachments": [
+      "/images/PEAS_CIENCIA_DATOS/1.-MATD113-Algebra-Lineal.pdf",
+      "/images/PEAS_CIENCIA_DATOS/10.-ICCD332-Arquitectura-de-Computadores.pdf",
+      "/images/PEAS_CIENCIA_DATOS/11.-CSHD211-Analisis-Socioeconomico-y-Politico-del-Ecuador.pdf",
+      "/images/PEAS_CIENCIA_DATOS/12.-MATD223-Probabilidad-y-Estadistica-Basicas.pdf",
+      "/images/PEAS_CIENCIA_DATOS/13.-ICCD323-Sistemas-Operativos_act-feb24.pdf",
+      "/images/PEAS_CIENCIA_DATOS/14.-ISWD453-Fundamentos-de-bases-de-datos_act_jul25.pdf",
+      "/images/PEAS_CIENCIA_DATOS/15.-ICCD343-Estructura-de-datos-y-algoritmos-I_act_jul25.pdf",
+      "/images/PEAS_CIENCIA_DATOS/16.-ICCD353-Fundamentos-de-Redes-y-Conectividad_act-feb24.pdf",
+      "/images/PEAS_CIENCIA_DATOS/17.-IDSD413-Fundamentos-de-Big-Data.pdf",
+      "/images/PEAS_CIENCIA_DATOS/18.-IDSD422-Estadistica-y-Programacion-para-Ciencia-de-DatosI.pdf",
+      "/images/PEAS_CIENCIA_DATOS/2.-MATD123-Calculo-en-una-Variable.pdf",
+      "/images/PEAS_CIENCIA_DATOS/20.-ICCD442-Estructura-de-Datos-y-Algoritmos-II_act_jul25.pdf",
+      "/images/PEAS_CIENCIA_DATOS/21.-ISWD553-Bases-de-Datos-Distribuidas_act-feb24.pdf",
+      "/images/PEAS_CIENCIA_DATOS/22.-CSHD300-Asignatura-de-Artes-y-Humanidades.pdf",
+      "/images/PEAS_CIENCIA_DATOS/23.-IDSD513-Infraestructura-para-Big-Data_act-feb24.pdf",
+      "/images/PEAS_CIENCIA_DATOS/24.-IDSD522-Estadistica-y-Programacion-para-CienciadeDatosII.pdf",
+      "/images/PEAS_CIENCIA_DATOS/25.-IDSD533-Computacion-Numerica.pdf",
+      "/images/PEAS_CIENCIA_DATOS/26.-ICCD523-Inteligencia-Artificial_act-feb24.pdf",
+      "/images/PEAS_CIENCIA_DATOS/27.-ISID432-Desarrollo-y-Mantenimiento-de-Software.pdf",
+      "/images/PEAS_CIENCIA_DATOS/28.-CSHD400-Asignatura-de-Economia-y-Sociedad.pdf",
+      "/images/PEAS_CIENCIA_DATOS/29.-ADMD511-Gestion-Organizacional.pdf",
+      "/images/PEAS_CIENCIA_DATOS/3.-FISD134-Mecanica-Newtoniana.pdf",
+      "/images/PEAS_CIENCIA_DATOS/30.-IDSD613-Almacenamiento-de-Datos-Masivos.pdf",
+      "/images/PEAS_CIENCIA_DATOS/31.-IDSD623-Computacin-Paralela-para-Big-Data_act-feb24.pdf",
+      "/images/PEAS_CIENCIA_DATOS/32.-IDSD633-Aprendizaje-Automatico-I.pdf",
+      "/images/PEAS_CIENCIA_DATOS/33.-ISWD613-Aplicaciones-Web_act-feb24.pdf",
+      "/images/PEAS_CIENCIA_DATOS/34.-ICCD643-Tecnologas-de-Seguridad_act-feb24.pdf",
+      "/images/PEAS_CIENCIA_DATOS/35.-IDSD713-Procesamiento-de-Datos-Masivos_act-feb24.pdf",
+      "/images/PEAS_CIENCIA_DATOS/36.-IDSD723-Aprendizaje-Automtico-II_act-feb24.pdf",
+      "/images/PEAS_CIENCIA_DATOS/37.-IDSD733-Mineria-de-Datos-I_act-feb24.pdf",
+      "/images/PEAS_CIENCIA_DATOS/38.-IDSD742-Seguridad-y-Privacidad-de-Datos.pdf",
+      "/images/PEAS_CIENCIA_DATOS/39.-ISID642-User-Experience.pdf",
+      "/images/PEAS_CIENCIA_DATOS/4.-ICCD144-Programacion-I_act_jul25.pdf",
+      "/images/PEAS_CIENCIA_DATOS/40.-ADMD611-Gestion-de-Procesos-y-Calidad.pdf",
+      "/images/PEAS_CIENCIA_DATOS/41.-ADMD711-Ingenieria-Financiera.pdf",
+      "/images/PEAS_CIENCIA_DATOS/42.-IDSD813-Visualizacion-de-Datos_act-feb24.pdf",
+      "/images/PEAS_CIENCIA_DATOS/43.-IDSD823-Servicios-en-la-Nube-para-Big-Data_act-feb24.pdf",
+      "/images/PEAS_CIENCIA_DATOS/44.-IDSD833-Mineria-de-Datos-II_act-feb24.pdf",
+      "/images/PEAS_CIENCIA_DATOS/45.-IDSD843-Analtica-Avanzada_act-feb24.pdf",
+      "/images/PEAS_CIENCIA_DATOS/46.-ICCD842-Profesionalismo-en-informatica_act_jul25.pdf",
+      "/images/PEAS_CIENCIA_DATOS/47.-TITD104-Diseno-de-Trabajo-de-Integracion.pdf",
+      "/images/PEAS_CIENCIA_DATOS/49.-IDSD933-Aplicaciones-Emergentes-de-CD_act-feb24.pdf",
+      "/images/PEAS_CIENCIA_DATOS/5.-CSHD111-Comunicacion-Oral-y-Escrita.pdf",
+      "/images/PEAS_CIENCIA_DATOS/50.-IDSD942-Administracion-de-Proyectos-de-Ciencia-de-Datos.pdf",
+      "/images/PEAS_CIENCIA_DATOS/6.-MATD213-Ecuaciones-Diferenciales-Ordinarias.pdf",
+      "/images/PEAS_CIENCIA_DATOS/7.-ISID223-Introduccion-a-los-Sistemas-de-Informacion.pdf",
+      "/images/PEAS_CIENCIA_DATOS/8.-ISID232-Fundamentos-de-Ciencias-de-la-Computacion.pdf",
+      "/images/PEAS_CIENCIA_DATOS/9.-ICCD244-Programacin-II_act-feb24.pdf",
+      "/images/PEAS_CIENCIA_DATOS/ADMD700-Emprendimiento.pdf",
+      "/images/PEAS_CIENCIA_DATOS/ADMD800-Formulacion-y-Evaluacion-de-Proyectos.pdf",
+      "/images/PEAS_CIENCIA_DATOS/AMBD900-Ecologia-y-Ambiente.pdf",
+      "/images/PEAS_CIENCIA_DATOS/CSHD500-Asignatura-de-Comunicacion.pdf",
+      "/images/PEAS_CIENCIA_DATOS/DEPD110-Deportes.pdf",
+      "/images/PEAS_CIENCIA_DATOS/ICCD422-Compiladores-y-Lenguajes_act-2026.pdf",
+      "/images/PEAS_CIENCIA_DATOS/SOCD210-Clubes.pdf",
+      "/images/mallas_curriculares/2024/Diseno-curricular-Ciencia-datos-inteligencia-artificial.pdf",
+      "/images/mallas_curriculares/2024/malla_ciencia_datos_IA.pdf"
+    ],
+    "tables": [
+      {
+        "headers": [
+          "Asignatura",
+          "Código",
+          "Horas"
+        ],
+        "rows": [
+          [
+            "Asignatura",
+            "Código",
+            "Horas"
+          ],
+          [
+            "Primer Semestre - 720 Horas"
+          ],
+          [
+            "Álgebra Lineal",
+            "144"
+          ],
+          [
+            "Cálculo de una Variable",
+            "144"
+          ],
+          [
+            "Mecánica Newtoniana",
+            "192"
+          ],
+          [
+            "Programación I",
+            "192"
+          ],
+          [
+            "Comunicación Oral y Escrita",
+            "48"
+          ],
+          [
+            "Segundo Semestre - 720 Horas"
+          ],
+          [
+            "Ecuaciones Diferenciales Ordinarias",
+            "144"
+          ],
+          [
+            "Introducción a los Sistemas de Información",
+            "144"
+          ],
+          [
+            "Fundamentos de Ciencias de la Computación",
+            "96"
+          ],
+          [
+            "Programación II",
+            "192"
+          ],
+          [
+            "Arquitectura de Computadores",
+            "96"
+          ],
+          [
+            "Análisis Socioeconómico y Político del Ecuador",
+            "48"
+          ],
+          [
+            "Tercer Semestre - 720 Horas"
+          ],
+          [
+            "Fundamentos de Redes y Conectividad",
+            "144"
+          ],
+          [
+            "Probabilidad y Estadística Básicas",
+            "144"
+          ],
+          [
+            "Sistemas Operativos",
+            "144"
+          ],
+          [
+            "Estructura de Datos y Algoritmos I",
+            "144"
+          ],
+          [
+            "Fundamentos de Bases de Datos",
+            "144"
+          ],
+          [
+            "Cuarto Semestre - 720 Horas"
+          ],
+          [
+            "Fundamentos de Big Data",
+            "144"
+          ],
+          [
+            "Estadística y Programación para Ciencias de Datos I",
+            "96"
+          ],
+          [
+            "Compiladores y Lenguajes",
+            "96"
+          ],
+          [
+            "Estructura de Datos y Algoritmos II",
+            "96"
+          ],
+          [
+            "Bases de Datos Distribuidas",
+            "144"
+          ],
+          [
+            "Asignatura de Artes y Humanidades",
+            "48"
+          ],
+          [
+            "Prácticas de Servicio Comunitario",
+            "PSCD202",
+            "96"
+          ],
+          [
+            "Quinto Semestre - 720 Horas"
+          ],
+          [
+            "Infraestructura para Big Data",
+            "144"
+          ],
+          [
+            "Estadística y Programación para Ciencias de Datos II",
+            "96"
+          ],
+          [
+            "Computación Numérica",
+            "144"
+          ],
+          [
+            "Inteligencia Artificial",
+            "144"
+          ],
+          [
+            "Desarrollo y Mantenimiento de Software",
+            "96"
+          ],
+          [
+            "Asignatura de Economía y Sociedad",
+            "48"
+          ],
+          [
+            "Gestión Organizacional",
+            "48"
+          ],
+          [
+            "Sexto Semestre - 720 Horas"
+          ],
+          [
+            "Almacenamiento de Datos Masivos",
+            "144"
+          ],
+          [
+            "Computación Paralela para Big Data",
+            "144"
+          ],
+          [
+            "Aprendizaje Automático I",
+            "144"
+          ],
+          [
+            "Aplicaciones Web",
+            "144"
+          ],
+          [
+            "Tecnologías de Seguridad",
+            "144"
+          ],
+          [
+            "Séptimo Semestre - 720 Horas"
+          ],
+          [
+            "Procesamiento de Datos Masivos",
+            "144"
+          ],
+          [
+            "Aprendizaje Automático II",
+            "144"
+          ],
+          [
+            "Minería de Datos I",
+            "144"
+          ],
+          [
+            "Seguridad y Privacidad de Datos",
+            "96"
+          ],
+          [
+            "User Experience",
+            "96"
+          ],
+          [
+            "Gestión de Procesos y Calidad",
+            "48"
+          ],
+          [
+            "Ingeniería Financiera",
+            "48"
+          ],
+          [
+            "Octavo Semestre - 720 Horas"
+          ],
+          [
+            "Visualización de Datos",
+            "144"
+          ],
+          [
+            "Servicios en la Nube para Big Data",
+            "144"
+          ],
+          [
+            "Minería de Datos II",
+            "144"
+          ],
+          [
+            "Analítica Avanzada",
+            "144"
+          ],
+          [
+            "Profesionalismo en Informática",
+            "96"
+          ],
+          [
+            "Diseño de trabajo de integración curricular / preparación Exámen Complexivo",
+            "48"
+          ],
+          [
+            "Noveno Semestre - 720 Horas"
+          ],
+          [
+            "Trabajo de Integración Curricular/Examen Complexivo",
+            "TITD201",
+            "240"
+          ],
+          [
+            "Prácticas Laborales",
+            "PRLD105",
+            "240"
+          ],
+          [
+            "Aplicaciones Emergentes de Ciencia de Datos",
+            "144"
+          ],
+          [
+            "Administración de Proyectos de Ciencia de Datos",
+            "96"
+          ]
+        ]
+      },
+      {
+        "headers": [
+          "Asignatura",
+          "Código",
+          "Horas"
+        ],
+        "rows": [
+          [
+            "Asignatura",
+            "Código",
+            "Horas"
+          ],
+          [
+            "Asignaturas y certificaciones adicionales requeridas"
+          ],
+          [
+            "Nivel de suficiencia B1 en el idioma Inglés",
+            "IEXD200"
+          ],
+          [
+            "Deportes"
+          ],
+          [
+            "Clubes"
+          ],
+          [
+            "Asignatura de Comunicación"
+          ],
+          [
+            "Emprendimiento"
+          ],
+          [
+            "Formulación y Evaluación de Proyectos"
+          ],
+          [
+            "Ecología y Ambiente"
+          ]
+        ]
+      }
+    ]
+  },
+  "assets": {
+    "screenshot": "screenshot_000_base.png",
+    "html_rendered": "html_rendered_000_base.html"
+  }
+}

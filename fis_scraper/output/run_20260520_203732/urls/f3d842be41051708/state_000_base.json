@@ -1,0 +1,104 @@
+{
+  "url": "https://fis.epn.edu.ec/index.php/es/la-facultad/planta-docentes/245-carrera-izurieta-ivan-marcelo",
+  "state_id": "state_000_base",
+  "actions": [],
+  "content": {
+    "title": "Carrera Izurieta Iván Marcelo",
+    "h1": [
+      "Planta docente"
+    ],
+    "h2": [],
+    "h3": [
+      "La Facultad"
+    ],
+    "paragraphs": [
+      "Facultad de Sistemas todos los derechos reservados",
+      "Back to top"
+    ],
+    "bold_texts": [
+      "Estudios",
+      "Líneas prioritarias de investigación",
+      "Publicaciones"
+    ],
+    "links": [
+      "#",
+      "#jm-main",
+      "#jm-top-menu-nav",
+      "/index.php",
+      "/index.php/es/",
+      "/index.php/es/docente",
+      "/index.php/es/estudiante",
+      "/index.php/es/investigacion/lineas-de-investigacion",
+      "/index.php/es/la-facultad/departamento-de-informatica-y-ciencias-de-la-computacion",
+      "/index.php/es/la-facultad/estructura-organica",
+      "/index.php/es/la-facultad/gestion-de-transferencia-tecnologica",
+      "/index.php/es/la-facultad/laboratorios",
+      "/index.php/es/la-facultad/laboratorios-de-investigacion",
+      "/index.php/es/la-facultad/planta-docentes",
+      "/index.php/es/la-facultad/planta-docentes?filter_tag[0]=",
+      "/index.php/es/la-facultad/planta-docentes?fontsize=100",
+      "/index.php/es/la-facultad/planta-docentes?fontsize=130",
+      "/index.php/es/la-facultad/planta-docentes?fontsize=70",
+      "/index.php/es/maestrias/doctorado-en-informatica",
+      "/index.php/es/maestrias/maestria-en-ciberseguridad",
+      "/index.php/es/maestrias/maestria-en-inteligencia-artificial-art",
+      "/index.php/es/maestrias/maestria-en-tecnologia-e-innovacion-educativa",
+      "/index.php/es/oferta-academicafis/ciencia-de-datos-e-inteligencia-artificial",
+      "/index.php/es/oferta-academicafis/computacion",
+      "/index.php/es/oferta-academicafis/sistemas-de-informacion",
+      "/index.php/es/oferta-academicafis/software",
+      "https://doi.org/10.1109/BIBM49941.2020.9313334",
+      "https://doi.org/10.1109/EDUNINE.2019.8875846",
+      "https://doi.org/10.1145/3388440.3414912",
+      "https://doi.org/10.1371/journal.pone.0223276",
+      "https://fis.epn.edu.ec/",
+      "https://fis.epn.edu.ec/index.php/es/la-facultad/departamento-de-informatica-y-ciencias-de-la-computacion/grupos-de-investigacion",
+      "https://fis.epn.edu.ec/index.php/es/la-facultad/departamento-de-informatica-y-ciencias-de-la-computacion/proyectos-de-investigacion",
+      "https://fis.epn.edu.ec/index.php/es/la-facultad/departamento-de-informatica-y-ciencias-de-la-computacion/proyectos-de-vinculacion-y-proyeccion-social",
+      "https://lajc.epn.edu.ec/index.php/LAJC",
+      "https://orcid.org/0000-0003-4337-7433",
+      "https://www.facebook.com/fisepn",
+      "https://www.joomla-monster.com",
+      "mailto:ivan.carrera@epn.edu.ec"
+    ],
+    "external_links": [
+      "https://doi.org/10.1109/BIBM49941.2020.9313334",
+      "https://doi.org/10.1109/EDUNINE.2019.8875846",
+      "https://doi.org/10.1145/3388440.3414912",
+      "https://doi.org/10.1371/journal.pone.0223276",
+      "https://lajc.epn.edu.ec/index.php/LAJC",
+      "https://orcid.org/0000-0003-4337-7433",
+      "https://www.facebook.com/fisepn",
+      "https://www.joomla-monster.com"
+    ],
+    "attachments": [],
+    "tables": [
+      {
+        "headers": [],
+        "rows": [
+          [
+            "",
+            "",
+            "Departamento de Informática y Ciencias de la Computación",
+            "Oficina:",
+            "Ext:"
+          ]
+        ]
+      }
+    ],
+    "list_items": [
+      "Ingeniero en Electrónica y Redes de Información en la Escuela Politécnica Nacional",
+      "Máster en Ciencia de la Computación, Universidade Federal do Rio Grande do Sul UFRGS, Porto Alegre, Brasil",
+      "Sistemas de Información e Interacción Humano-Computador",
+      "Ciencias de la Computación e Inteligencia Artificial",
+      "Tejera, E., Carrera, I., Jimenes-Vargas, K., Armijos-Jaramillo, V., Sánchez-Rodríguez, A., Cruz-Monteagudo, M., & Perez-Castillo, Y. (2019). Cell fishing: A similarity based approach and machine learning strategy for multiple cell lines-compound sensitivity prediction. PLoS ONE, 14(10). https://doi.org/10.1371/journal.pone.0223276",
+      "Carrera, I., Dutra, I., & Tejera, E. (2020). A Representation Method for Cellular Lines based on SVM and Text Mining. Proceedings - 2020 IEEE International Conference on Bioinformatics and Biomedicine, BIBM 2020, 2717–2723. https://doi.org/10.1109/BIBM49941.2020.9313334",
+      "Hallo, M., Brito, D., Carrera, I., Lema, B., & Pinto, M. (2019). Semiautomatic Extraction of Morphological Characters from a Book about Insect Vectors of Chagas Disease. EDUNINE 2019 - 3rd IEEE World Engineering Education Conference: Modern Educational Paradigms for Computer and Engineering Career, Proceedings. https://doi.org/10.1109/EDUNINE.2019.8875846",
+      "Carrera, I., Dutra, I., & Tejera, E. (2020). Representing Cellular Lines with SVM and Text Processing. Proceedings of the 11th ACM International Conference on Bioinformatics, Computational Biology and Health Informatics, BCB 2020. https://doi.org/10.1145/3388440.3414912"
+    ]
+  },
+  "assets": {
+    "screenshot": "screenshot_000_base.png",
+    "html_rendered": "html_rendered_000_base.html"
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "url": "https://fis.epn.edu.ec/index.php/es/la-facultad/planta-docentes/245-carrera-izurieta-ivan-marcelo",
+  "state_id": "state_000_base",
+  "actions": [],
+  "content": {
+    "title": "Carrera Izurieta Iván Marcelo",
+    "h1": [
+      "Planta docente"
+    ],
+    "h2": [],
+    "h3": [
+      "La Facultad"
+    ],
+    "paragraphs": [
+      "Facultad de Sistemas todos los derechos reservados",
+      "Back to top"
+    ],
+    "bold_texts": [
+      "Estudios",
+      "Líneas prioritarias de investigación",
+      "Publicaciones"
+    ],
+    "links": [
+      "#",
+      "#jm-main",
+      "#jm-top-menu-nav",
+      "/index.php",
+      "/index.php/es/",
+      "/index.php/es/docente",
+      "/index.php/es/estudiante",
+      "/index.php/es/investigacion/lineas-de-investigacion",
+      "/index.php/es/la-facultad/departamento-de-informatica-y-ciencias-de-la-computacion",
+      "/index.php/es/la-facultad/estructura-organica",
+      "/index.php/es/la-facultad/gestion-de-transferencia-tecnologica",
+      "/index.php/es/la-facultad/laboratorios",
+      "/index.php/es/la-facultad/laboratorios-de-investigacion",
+      "/index.php/es/la-facultad/planta-docentes",
+      "/index.php/es/la-facultad/planta-docentes?filter_tag[0]=",
+      "/index.php/es/la-facultad/planta-docentes?fontsize=100",
+      "/index.php/es/la-facultad/planta-docentes?fontsize=130",
+      "/index.php/es/la-facultad/planta-docentes?fontsize=70",
+      "/index.php/es/maestrias/doctorado-en-informatica",
+      "/index.php/es/maestrias/maestria-en-ciberseguridad",
+      "/index.php/es/maestrias/maestria-en-inteligencia-artificial-art",
+      "/index.php/es/maestrias/maestria-en-tecnologia-e-innovacion-educativa",
+      "/index.php/es/oferta-academicafis/ciencia-de-datos-e-inteligencia-artificial",
+      "/index.php/es/oferta-academicafis/computacion",
+      "/index.php/es/oferta-academicafis/sistemas-de-informacion",
+      "/index.php/es/oferta-academicafis/software",
+      "https://doi.org/10.1109/BIBM49941.2020.9313334",
+      "https://doi.org/10.1109/EDUNINE.2019.8875846",
+      "https://doi.org/10.1145/3388440.3414912",
+      "https://doi.org/10.1371/journal.pone.0223276",
+      "https://fis.epn.edu.ec/",
+      "https://fis.epn.edu.ec/index.php/es/la-facultad/departamento-de-informatica-y-ciencias-de-la-computacion/grupos-de-investigacion",
+      "https://fis.epn.edu.ec/index.php/es/la-facultad/departamento-de-informatica-y-ciencias-de-la-computacion/proyectos-de-investigacion",
+      "https://fis.epn.edu.ec/index.php/es/la-facultad/departamento-de-informatica-y-ciencias-de-la-computacion/proyectos-de-vinculacion-y-proyeccion-social",
+      "https://lajc.epn.edu.ec/index.php/LAJC",
+      "https://orcid.org/0000-0003-4337-7433",
+      "https://www.facebook.com/fisepn",
+      "https://www.joomla-monster.com",
+      "mailto:ivan.carrera@epn.edu.ec"
+    ],
+    "external_links": [
+      "https://doi.org/10.1109/BIBM49941.2020.9313334",
+      "https://doi.org/10.1109/EDUNINE.2019.8875846",
+      "https://doi.org/10.1145/3388440.3414912",
+      "https://doi.org/10.1371/journal.pone.0223276",
+      "https://lajc.epn.edu.ec/index.php/LAJC",
+      "https://orcid.org/0000-0003-4337-7433",
+      "https://www.facebook.com/fisepn",
+      "https://www.joomla-monster.com"
+    ],
+    "attachments": [],
+    "tables": [
+      {
+        "headers": [],
+        "rows": [
+          [
+            "",
+            "",
+            "Departamento de Informática y Ciencias de la Computación",
+            "Oficina:",
+            "Ext:"
+          ]
+        ]
+      }
+    ]
+  },
+  "assets": {
+    "screenshot": "screenshot_000_base.png",
+    "html_rendered": "html_rendered_000_base.html"
+  }
+}

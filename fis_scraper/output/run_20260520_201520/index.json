@@ -1,0 +1,102 @@
+{
+  "run_id": "run_20260520_201520",
+  "schema_version": "1.0",
+  "domain": "fis.epn.edu.ec",
+  "generated_at_utc": "2026-05-20T20:15:20.926965Z",
+  "selection": {
+    "mode": "cumulative",
+    "only_new_urls": true,
+    "pilot_limit": 25,
+    "batch_start": 0,
+    "batch_size": 5,
+    "scope_limit": 25,
+    "review_from": 0,
+    "review_to_exclusive": 5,
+    "new_urls_count": 5,
+    "new_urls": [
+      "https://fis.epn.edu.ec/index.php/es/category-list/701-women-talk-tech",
+      "https://fis.epn.edu.ec/index.php/es/category-list/707-documentos-clave",
+      "https://fis.epn.edu.ec/index.php/es/category-list/712-charla-informativa-sobre-estudios-en-usa",
+      "https://fis.epn.edu.ec/index.php/es/category-list/725-maestria-en-sistemas-de-informacion",
+      "https://fis.epn.edu.ec/index.php/es/category-list/726-como-armar-tu-cv-y-tips-para-una-entrevista-laboral"
+    ],
+    "selected_urls": 5,
+    "total_seed_urls": 116,
+    "seed_source": "input/urls_master.txt",
+    "excluded_urls_count": 5,
+    "excluded_source": "input/urls_excluded.txt"
+  },
+  "pages": [
+    {
+      "url": "https://fis.epn.edu.ec/index.php/es/category-list/701-women-talk-tech",
+      "url_hash": "f215c02d4801f9f9",
+      "title": "Women Talk Tech",
+      "states_captured": 1,
+      "external_links": [
+        "https://lajc.epn.edu.ec/index.php/LAJC",
+        "https://www.facebook.com/fisepn",
+        "https://www.joomla-monster.com",
+        "https://www.linkedin.com/events/womentalktechhostedbyoshyn7056359470217531392/comments/",
+        "https://www.linkedin.com/events/womentalktechhostedbyoshyn7056384335746121729/comments/"
+      ],
+      "attachments": []
+    },
+    {
+      "url": "https://fis.epn.edu.ec/index.php/es/category-list/707-documentos-clave",
+      "url_hash": "54f22425d3b388f1",
+      "title": "Documentos Clave",
+      "states_captured": 1,
+      "external_links": [
+        "https://atenea.epn.edu.ec",
+        "https://atenea.epn.edu.ec/simple-search?location=%2F&query=Reglamento+de+R%C3%A9gimen+Acad%C3%A9mico&rpp=10&sort_by=score&order=desc",
+        "https://atenea.epn.edu.ec/simple-search?location=%2F&query=plan+emergente&rpp=10&sort_by=score&order=desc",
+        "https://atenea.epn.edu.ec/simple-search?query=Guia+del+estudiante",
+        "https://lajc.epn.edu.ec/index.php/LAJC",
+        "https://www.epn.edu.ec/admision/calendario-academico-propedeutico-nivelacion/",
+        "https://www.facebook.com/fisepn",
+        "https://www.joomla-monster.com"
+      ],
+      "attachments": []
+    },
+    {
+      "url": "https://fis.epn.edu.ec/index.php/es/category-list/712-charla-informativa-sobre-estudios-en-usa",
+      "url_hash": "15abc0dbda439e26",
+      "title": "Charla Informativa sobre estudios en USA",
+      "states_captured": 1,
+      "external_links": [
+        "https://forms.office.com/r/CEfrukZUtu",
+        "https://lajc.epn.edu.ec/index.php/LAJC",
+        "https://www.facebook.com/fisepn",
+        "https://www.joomla-monster.com"
+      ],
+      "attachments": []
+    },
+    {
+      "url": "https://fis.epn.edu.ec/index.php/es/category-list/725-maestria-en-sistemas-de-informacion",
+      "url_hash": "d23c1686ebc50d9b",
+      "title": "Maestría en Sistemas de Información",
+      "states_captured": 1,
+      "external_links": [
+        "https://lajc.epn.edu.ec/index.php/LAJC",
+        "https://maestriasistemasinformacion.epn.edu.ec",
+        "https://www.facebook.com/fisepn",
+        "https://www.joomla-monster.com"
+      ],
+      "attachments": []
+    },
+    {
+      "url": "https://fis.epn.edu.ec/index.php/es/category-list/726-como-armar-tu-cv-y-tips-para-una-entrevista-laboral",
+      "url_hash": "b083d0c01cd01a2b",
+      "title": "Cómo armar tu CV y tips para una entrevista laboral",
+      "states_captured": 1,
+      "external_links": [
+        "https://lajc.epn.edu.ec/index.php/LAJC",
+        "https://www.facebook.com/fisepn",
+        "https://www.joomla-monster.com"
+      ],
+      "attachments": []
+    }
+  ],
+  "closed_reason": "finished",
+  "total_pages": 5
+}

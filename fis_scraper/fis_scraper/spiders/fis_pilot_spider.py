@@ -33,6 +33,8 @@ class FisPilotSpider(scrapy.Spider):
         scope_limit = int(kwargs.pop("scope_limit", 0))
         review_from = int(kwargs.pop("review_from", 0))
         seed_file = kwargs.pop("seed_file", "")
+        exclude_file = kwargs.pop("exclude_file", "")
+        only_new = kwargs.pop("only_new", "false").lower() in ("true", "1", "yes")
         super().__init__(*args, **kwargs)
         self.pilot_limit = max(1, pilot_limit)
         self.max_interactions_per_page = max(0, max_interactions)
@@ -40,24 +42,45 @@ class FisPilotSpider(scrapy.Spider):
         self.batch_size = max(1, batch_size)
         self.scope_limit = max(0, scope_limit)
         self.review_from = max(0, review_from)
+        self.only_new = only_new
         self.seed_file = (seed_file or "").strip()
+        self.exclude_file = (exclude_file or "").strip()
 
-        self.seed_urls = self._load_seed_urls()
+        all_seed_urls = self._load_seed_urls()
+        self.excluded_urls = self._load_excluded_urls()
+        self.seed_urls = [url for url in all_seed_urls if url not in self.excluded_urls]
+
+        if self.excluded_urls:
+            self.logger.info(
+                "Exclusiones aplicadas: %s URLs omitidas de %s total seed.",
+                len(self.excluded_urls),
+                len(all_seed_urls),
+            )
 
         if self.scope_limit > 0:
             # Modo acumulativo: 5 -> 10 -> 15 ...
             self.selection_mode = "cumulative"
             effective_limit = min(self.scope_limit, len(self.seed_urls))
-            self.selected_urls = self.seed_urls[:effective_limit]
+            
+            # Optimización: si only_new=true y review_from > 0, solo procesar URLs nuevas
+            if self.only_new and self.review_from > 0:
+                self.selected_urls = self.seed_urls[self.review_from:effective_limit]
+                self.review_from = 0  # Resetear porque ahora selected_urls comienza en las nuevas
+                self.review_to = len(self.selected_urls)
+            else:
+                # Modo acumulativo original: procesar todas desde 0
+                self.selected_urls = self.seed_urls[:effective_limit]
+                self.review_from = min(self.review_from, len(self.selected_urls))
+                self.review_to = len(self.selected_urls)
         else:
             # Modo por bloque fijo de 5
             self.selection_mode = "batch"
             end_index = self.batch_start + self.batch_size
             self.selected_urls = self.seed_urls[self.batch_start:end_index]
+            self.review_from = 0
+            self.review_to = len(self.selected_urls)
 
         # Ventana de URLs nuevas para revisar en QA (delta del alcance)
-        self.review_from = min(self.review_from, len(self.selected_urls))
-        self.review_to = len(self.selected_urls)
         self.review_urls = self.selected_urls[self.review_from : self.review_to]
 
         run_id = datetime.utcnow().strftime("run_%Y%m%d_%H%M%S")
@@ -71,6 +94,7 @@ class FisPilotSpider(scrapy.Spider):
             "generated_at_utc": datetime.utcnow().isoformat() + "Z",
             "selection": {
                 "mode": self.selection_mode,
+                "only_new_urls": self.only_new,
                 "pilot_limit": self.pilot_limit,
                 "batch_start": self.batch_start,
                 "batch_size": self.batch_size,
@@ -82,6 +106,8 @@ class FisPilotSpider(scrapy.Spider):
                 "selected_urls": len(self.selected_urls),
                 "total_seed_urls": len(self.seed_urls),
                 "seed_source": self.seed_file or "default_start_urls",
+                "excluded_urls_count": len(self.excluded_urls),
+                "excluded_source": self.exclude_file or "none",
             },
             "pages": [],
         }
@@ -283,11 +309,23 @@ class FisPilotSpider(scrapy.Spider):
             headers = [h.strip() for h in table.css("thead th::text, tr th::text").getall() if h.strip()]
             rows = []
             for row in table.css("tbody tr, tr"):
-                cells = [c.strip() for c in row.css("td::text, th::text").getall()]
+                cells = []
+                for cell in row.css("td, th"):
+                    text = self._visible_text(cell)
+                    cells.append(text.strip() if text else "")
                 if any(cells):
                     rows.append(cells)
             if headers or rows:
                 tables.append({"headers": headers, "rows": rows})
+
+        # Fix E: capture list items within articleBody (e.g., OBJETIVOS ESPECÍFICOS bullet lists)
+        list_items = []
+        list_items_seen: set = set()
+        for li in selector.css("[itemprop='articleBody'] li"):
+            text = self._visible_text(li)
+            if text and text not in list_items_seen:
+                list_items.append(text)
+                list_items_seen.add(text)
 
         content = {
             "title": (selector.css("title::text").get() or "").strip(),
@@ -300,6 +338,7 @@ class FisPilotSpider(scrapy.Spider):
             "external_links": sorted(list(set(external_links))),
             "attachments": sorted(list(set(attachments))),
             "tables": tables,
+            "list_items": list_items,
         }
 
         return {
@@ -337,6 +376,26 @@ class FisPilotSpider(scrapy.Spider):
             return self._dedupe_seed_urls(self.start_urls)
 
         return self._dedupe_seed_urls(urls)
+
+    def _load_excluded_urls(self) -> set[str]:
+        if not self.exclude_file:
+            return set()
+
+        exclude_path = Path(self.exclude_file)
+        if not exclude_path.exists():
+            self.logger.warning("exclude_file no existe: %s. No se aplicaran exclusiones.", self.exclude_file)
+            return set()
+
+        excluded = []
+        for raw in exclude_path.read_text(encoding="utf-8").splitlines():
+            line = raw.strip()
+            if not line or line.startswith("#"):
+                continue
+            normalized = self._normalize_seed_url(line)
+            if normalized:
+                excluded.append(normalized)
+
+        return set(excluded)
 
     def _dedupe_seed_urls(self, urls: List[str]) -> List[str]:
         cleaned = []

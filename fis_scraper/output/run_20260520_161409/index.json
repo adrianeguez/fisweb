@@ -1,0 +1,559 @@
+{
+  "run_id": "run_20260520_161409",
+  "schema_version": "1.0",
+  "domain": "fis.epn.edu.ec",
+  "generated_at_utc": "2026-05-20T16:14:09.471637Z",
+  "selection": {
+    "mode": "cumulative",
+    "pilot_limit": 40,
+    "batch_start": 0,
+    "batch_size": 5,
+    "scope_limit": 40,
+    "review_from": 35,
+    "review_to_exclusive": 40,
+    "new_urls_count": 5,
+    "new_urls": [
+      "https://fis.epn.edu.ec/index.php/es/category-list/814-invitacion-bolsa-de-trabajo-epn-secure-soft-corp",
+      "https://fis.epn.edu.ec/index.php/es/category-list/820-elecciones-estudiantes-cd-2024",
+      "https://fis.epn.edu.ec/index.php/es/category-list/821-invitacion-jueves-cultural",
+      "https://fis.epn.edu.ec/index.php/es/category-list/830-convocatoria-abierta-cfp",
+      "https://fis.epn.edu.ec/index.php/es/category-list/832-tecnico-de-investigacion-laboratorio-ada"
+    ],
+    "selected_urls": 40,
+    "total_seed_urls": 121,
+    "seed_source": "input/urls_master.txt"
+  },
+  "pages": [
+    {
+      "url": "https://fis.epn.edu.ec/index.php/es",
+      "url_hash": "4941d67d80f8014a",
+      "title": "INICIO",
+      "states_captured": 1,
+      "external_links": [
+        "https://lajc.epn.edu.ec/index.php/LAJC",
+        "https://www.facebook.com/fisepn",
+        "https://www.joomla-monster.com"
+      ],
+      "attachments": []
+    },
+    {
+      "url": "https://fis.epn.edu.ec/index.php/es/category-list",
+      "url_hash": "ac91d49572859274",
+      "title": "Category List",
+      "states_captured": 1,
+      "external_links": [
+        "https://lajc.epn.edu.ec/index.php/LAJC",
+        "https://www.facebook.com/fisepn",
+        "https://www.joomla-monster.com"
+      ],
+      "attachments": []
+    },
+    {
+      "url": "https://fis.epn.edu.ec/index.php/es/category-list/126-informacion/288-ayuda-socioeconomica",
+      "url_hash": "0a5c84f21f6e7e76",
+      "title": "Ayuda socioeconómica",
+      "states_captured": 1,
+      "external_links": [
+        "https://atenea.epn.edu.ec/handle/25000/589",
+        "https://atenea.epn.edu.ec/handle/25000/590",
+        "https://atenea.epn.edu.ec/handle/25000/648",
+        "https://lajc.epn.edu.ec/index.php/LAJC",
+        "https://www.facebook.com/fisepn",
+        "https://www.joomla-monster.com"
+      ],
+      "attachments": []
+    },
+    {
+      "url": "https://fis.epn.edu.ec/index.php/es/category-list/126-informacion",
+      "url_hash": "87fb250fa7c1f79e",
+      "title": "Category List",
+      "states_captured": 2,
+      "external_links": [
+        "https://lajc.epn.edu.ec/index.php/LAJC",
+        "https://www.facebook.com/fisepn",
+        "https://www.joomla-monster.com"
+      ],
+      "attachments": []
+    },
+    {
+      "url": "https://fis.epn.edu.ec/index.php/es/category-list/126-informacion/308-asociacion-de-estudiantes",
+      "url_hash": "e44ea28c749c84cb",
+      "title": "Asociación de estudiantes",
+      "states_captured": 1,
+      "external_links": [
+        "https://es-la.facebook.com/AEIS.FIS.EPN/",
+        "https://lajc.epn.edu.ec/index.php/LAJC",
+        "https://www.facebook.com/fisepn",
+        "https://www.joomla-monster.com"
+      ],
+      "attachments": []
+    },
+    {
+      "url": "https://fis.epn.edu.ec/index.php/es/category-list/126-informacion/309-proceso-de-admision",
+      "url_hash": "1b86665776316f3c",
+      "title": "Proceso de admisión",
+      "states_captured": 1,
+      "external_links": [
+        "http://www.epn.edu.ec",
+        "https://lajc.epn.edu.ec/index.php/LAJC",
+        "https://saew.epn.edu.ec/",
+        "https://www.facebook.com/fisepn",
+        "https://www.joomla-monster.com"
+      ],
+      "attachments": [
+        "https://www.epn.edu.ec/wp-content/uploads/2019/08/INSTRUCTIVO_ADMISION-2019_B_ESTUDIANTES_NUEVOS-1.pdf"
+      ]
+    },
+    {
+      "url": "https://fis.epn.edu.ec/index.php/es/category-list/126-informacion/310-futuro-profesional",
+      "url_hash": "d69062852af34cca",
+      "title": "Futuro profesional",
+      "states_captured": 1,
+      "external_links": [
+        "https://lajc.epn.edu.ec/index.php/LAJC",
+        "https://www.facebook.com/fisepn",
+        "https://www.joomla-monster.com"
+      ],
+      "attachments": []
+    },
+    {
+      "url": "https://fis.epn.edu.ec/index.php/es/category-list/126-informacion/311-nuestra-historia",
+      "url_hash": "13dd88509a87f52b",
+      "title": "Nuestra historia",
+      "states_captured": 1,
+      "external_links": [
+        "https://lajc.epn.edu.ec/index.php/LAJC",
+        "https://www.facebook.com/fisepn",
+        "https://www.joomla-monster.com"
+      ],
+      "attachments": []
+    },
+    {
+      "url": "https://fis.epn.edu.ec/index.php/es/category-list/126-informacion/312-vida-estudiantil",
+      "url_hash": "a340dbe21013e841",
+      "title": "Vida estudiantil",
+      "states_captured": 1,
+      "external_links": [
+        "https://lajc.epn.edu.ec/index.php/LAJC",
+        "https://www.facebook.com/fisepn",
+        "https://www.joomla-monster.com"
+      ],
+      "attachments": []
+    },
+    {
+      "url": "https://fis.epn.edu.ec/index.php/es/category-list/126-informacion/478-incio-ciclo-2021-a",
+      "url_hash": "9f14d39835cb4e6c",
+      "title": "Inicio del ciclo 2021-A",
+      "states_captured": 1,
+      "external_links": [
+        "https://lajc.epn.edu.ec/index.php/LAJC",
+        "https://www.facebook.com/fisepn",
+        "https://www.joomla-monster.com"
+      ],
+      "attachments": []
+    },
+    {
+      "url": "https://fis.epn.edu.ec/index.php/es/category-list/126-informacion/574-practicas-preprofresionales",
+      "url_hash": "92aeea2d0969f04d",
+      "title": "Prácticas Pre profesionales",
+      "states_captured": 1,
+      "external_links": [
+        "https://atenea.epn.edu.ec/handle/25000/511",
+        "https://atenea.epn.edu.ec/handle/25000/720",
+        "https://atenea.epn.edu.ec/handle/25000/722",
+        "https://atenea.epn.edu.ec/handle/25000/723",
+        "https://lajc.epn.edu.ec/index.php/LAJC",
+        "https://www.facebook.com/fisepn",
+        "https://www.joomla-monster.com"
+      ],
+      "attachments": []
+    },
+    {
+      "url": "https://fis.epn.edu.ec/index.php/es/category-list/126-informacion/603-oferta-academica-2022a",
+      "url_hash": "aa60ef610d8fbb56",
+      "title": "Oferta Académica Carreras de Tercer Nivel 2022-A",
+      "states_captured": 1,
+      "external_links": [
+        "https://lajc.epn.edu.ec/index.php/LAJC",
+        "https://www.facebook.com/fisepn",
+        "https://www.joomla-monster.com"
+      ],
+      "attachments": [
+        "/images/documentos/oferta_academica_grado_2022_V3.pdf"
+      ]
+    },
+    {
+      "url": "https://fis.epn.edu.ec/index.php/es/category-list/288-ayuda-socioeconomica",
+      "url_hash": "1357592ef70af941",
+      "title": "Ayuda socioeconómica",
+      "states_captured": 1,
+      "external_links": [
+        "https://atenea.epn.edu.ec/handle/25000/589",
+        "https://atenea.epn.edu.ec/handle/25000/590",
+        "https://atenea.epn.edu.ec/handle/25000/648",
+        "https://lajc.epn.edu.ec/index.php/LAJC",
+        "https://www.facebook.com/fisepn",
+        "https://www.joomla-monster.com"
+      ],
+      "attachments": []
+    },
+    {
+      "url": "https://fis.epn.edu.ec/index.php/es/category-list/308-asociacion-de-estudiantes",
+      "url_hash": "681fcb99b8f970b8",
+      "title": "Asociación de estudiantes",
+      "states_captured": 1,
+      "external_links": [
+        "https://es-la.facebook.com/AEIS.FIS.EPN/",
+        "https://lajc.epn.edu.ec/index.php/LAJC",
+        "https://www.facebook.com/fisepn",
+        "https://www.joomla-monster.com"
+      ],
+      "attachments": []
+    },
+    {
+      "url": "https://fis.epn.edu.ec/index.php/es/category-list/309-proceso-de-admision",
+      "url_hash": "49cd0b817b1eb1a7",
+      "title": "Proceso de admisión",
+      "states_captured": 1,
+      "external_links": [
+        "http://www.epn.edu.ec",
+        "https://lajc.epn.edu.ec/index.php/LAJC",
+        "https://saew.epn.edu.ec/",
+        "https://www.facebook.com/fisepn",
+        "https://www.joomla-monster.com"
+      ],
+      "attachments": [
+        "https://www.epn.edu.ec/wp-content/uploads/2019/08/INSTRUCTIVO_ADMISION-2019_B_ESTUDIANTES_NUEVOS-1.pdf"
+      ]
+    },
+    {
+      "url": "https://fis.epn.edu.ec/index.php/es/category-list/617-proceso-de-reclutamiento-para-la-contratacion-de-ayudantes-de-catedra",
+      "url_hash": "82cce6b6c4a0539c",
+      "title": "Proceso de Reclutamiento para la contratación de Ayudantes de Cátedra",
+      "states_captured": 1,
+      "external_links": [
+        "https://lajc.epn.edu.ec/index.php/LAJC",
+        "https://www.facebook.com/fisepn",
+        "https://www.joomla-monster.com"
+      ],
+      "attachments": []
+    },
+    {
+      "url": "https://fis.epn.edu.ec/index.php/es/category-list/635-dia-del-doctorando",
+      "url_hash": "6478ad3986c74667",
+      "title": "Día del Doctorando",
+      "states_captured": 1,
+      "external_links": [
+        "https://bit.ly/3Atyr9o",
+        "https://bit.ly/3Atyr9o?fbclid=IwAR3khhpy-2Yo9nBmFHjgx9VNLXlLs2P2vCpvSQsUm668sGLnGgkHgHBXKxU",
+        "https://doctoradoinformatica.epn.edu.ec",
+        "https://lajc.epn.edu.ec/index.php/LAJC",
+        "https://www.facebook.com/fisepn",
+        "https://www.facebook.com/hashtag/epn?__eep__=6&__cft__[0]=AZU6VomBmtazF5ju0tDdd-0BPff0BxSeU3NFB4r_rZ5gBoUDDKx6XYrq9zdcUSOI_MLyEKV-R5puvuH6qZoV64GMi95w7iMEsQPxw8Lk7476oJNWoFCKBPwQSwOgtMJjZ2tmnWCKsJvUSaJgUzW829oxKbNtVAPrFXnyFHF8rPyG1uekVc7ZyTLBulE9O3ANmxs&__tn__=*NK*F",
+        "https://www.joomla-monster.com"
+      ],
+      "attachments": []
+    },
+    {
+      "url": "https://fis.epn.edu.ec/index.php/es/category-list/645-evento-premios-a-la-investigacion-y-vinculacion-2022",
+      "url_hash": "2d6c197812f72981",
+      "title": "La EPN entregó los premios a la Investigación y Vinculación 2022",
+      "states_captured": 1,
+      "external_links": [
+        "https://lajc.epn.edu.ec/index.php/LAJC",
+        "https://www.facebook.com/fisepn",
+        "https://www.joomla-monster.com"
+      ],
+      "attachments": []
+    },
+    {
+      "url": "https://fis.epn.edu.ec/index.php/es/category-list/692-cuando-debo-entregar-mi-empastado",
+      "url_hash": "630f4301943bec15",
+      "title": "¿Cuándo debo entregar mi empastado?",
+      "states_captured": 1,
+      "external_links": [
+        "https://lajc.epn.edu.ec/index.php/LAJC",
+        "https://www.facebook.com/fisepn",
+        "https://www.joomla-monster.com"
+      ],
+      "attachments": []
+    },
+    {
+      "url": "https://fis.epn.edu.ec/index.php/es/category-list/699-conferencia-virtual-oportunidades-en-cerveceria-nacional",
+      "url_hash": "0bcea2100e43828e",
+      "title": "Conferencia Virtual | Oportunidades en Cervecería Nacional",
+      "states_captured": 1,
+      "external_links": [
+        "https://forms.office.com/r/4sbYhFeAVE",
+        "https://forms.office.com/r/4sbYhFeAVE?fbclid=IwAR3NOgjZCwZqA3hvZuI1LLlDrjMQPECnylT-2XRookUbUazHGlLkAEqfr8Y",
+        "https://lajc.epn.edu.ec/index.php/LAJC",
+        "https://www.facebook.com/fisepn",
+        "https://www.joomla-monster.com"
+      ],
+      "attachments": []
+    },
+    {
+      "url": "https://fis.epn.edu.ec/index.php/es/category-list/701-women-talk-tech",
+      "url_hash": "f215c02d4801f9f9",
+      "title": "Women Talk Tech",
+      "states_captured": 1,
+      "external_links": [
+        "https://lajc.epn.edu.ec/index.php/LAJC",
+        "https://www.facebook.com/fisepn",
+        "https://www.joomla-monster.com",
+        "https://www.linkedin.com/events/womentalktechhostedbyoshyn7056359470217531392/comments/",
+        "https://www.linkedin.com/events/womentalktechhostedbyoshyn7056384335746121729/comments/"
+      ],
+      "attachments": []
+    },
+    {
+      "url": "https://fis.epn.edu.ec/index.php/es/category-list/707-documentos-clave",
+      "url_hash": "54f22425d3b388f1",
+      "title": "Documentos Clave",
+      "states_captured": 1,
+      "external_links": [
+        "https://atenea.epn.edu.ec",
+        "https://atenea.epn.edu.ec/simple-search?location=%2F&query=Reglamento+de+R%C3%A9gimen+Acad%C3%A9mico&rpp=10&sort_by=score&order=desc",
+        "https://atenea.epn.edu.ec/simple-search?location=%2F&query=plan+emergente&rpp=10&sort_by=score&order=desc",
+        "https://atenea.epn.edu.ec/simple-search?query=Guia+del+estudiante",
+        "https://lajc.epn.edu.ec/index.php/LAJC",
+        "https://www.epn.edu.ec/admision/calendario-academico-propedeutico-nivelacion/",
+        "https://www.facebook.com/fisepn",
+        "https://www.joomla-monster.com"
+      ],
+      "attachments": []
+    },
+    {
+      "url": "https://fis.epn.edu.ec/index.php/es/category-list/712-charla-informativa-sobre-estudios-en-usa",
+      "url_hash": "15abc0dbda439e26",
+      "title": "Charla Informativa sobre estudios en USA",
+      "states_captured": 1,
+      "external_links": [
+        "https://forms.office.com/r/CEfrukZUtu",
+        "https://lajc.epn.edu.ec/index.php/LAJC",
+        "https://www.facebook.com/fisepn",
+        "https://www.joomla-monster.com"
+      ],
+      "attachments": []
+    },
+    {
+      "url": "https://fis.epn.edu.ec/index.php/es/category-list/725-maestria-en-sistemas-de-informacion",
+      "url_hash": "d23c1686ebc50d9b",
+      "title": "Maestría en Sistemas de Información",
+      "states_captured": 1,
+      "external_links": [
+        "https://lajc.epn.edu.ec/index.php/LAJC",
+        "https://maestriasistemasinformacion.epn.edu.ec",
+        "https://www.facebook.com/fisepn",
+        "https://www.joomla-monster.com"
+      ],
+      "attachments": []
+    },
+    {
+      "url": "https://fis.epn.edu.ec/index.php/es/category-list/726-como-armar-tu-cv-y-tips-para-una-entrevista-laboral",
+      "url_hash": "b083d0c01cd01a2b",
+      "title": "Cómo armar tu CV y tips para una entrevista laboral",
+      "states_captured": 1,
+      "external_links": [
+        "https://lajc.epn.edu.ec/index.php/LAJC",
+        "https://www.facebook.com/fisepn",
+        "https://www.joomla-monster.com"
+      ],
+      "attachments": []
+    },
+    {
+      "url": "https://fis.epn.edu.ec/index.php/es/category-list/734-charla-informativa-oportunidades-en-banco-de-guayaquil",
+      "url_hash": "c207822b6ea122e1",
+      "title": "Charla Informativa | Oportunidades en Banco de Guayaquil",
+      "states_captured": 1,
+      "external_links": [
+        "https://cedia.zoom.us/j/83791707033",
+        "https://forms.office.com/r/thkNkuRYYM",
+        "https://lajc.epn.edu.ec/index.php/LAJC",
+        "https://www.facebook.com/fisepn",
+        "https://www.joomla-monster.com"
+      ],
+      "attachments": []
+    },
+    {
+      "url": "https://fis.epn.edu.ec/index.php/es/category-list/735-sinergia-iii-feria-de-innovacion-y-transferencia-de-tecnologia",
+      "url_hash": "f13bf5b316caabea",
+      "title": "Sinergia III: Feria de Innovación y Transferencia de Tecnología",
+      "states_captured": 1,
+      "external_links": [
+        "https://lajc.epn.edu.ec/index.php/LAJC",
+        "https://www.facebook.com/fisepn",
+        "https://www.joomla-monster.com"
+      ],
+      "attachments": []
+    },
+    {
+      "url": "https://fis.epn.edu.ec/index.php/es/category-list/746-lajc-vol-xi-no-1-2024",
+      "url_hash": "3ce04c4f5615c6e0",
+      "title": "CALL FOR PAPERS (LAJC) Vol. XI No.1 – 2024",
+      "states_captured": 1,
+      "external_links": [
+        "https://lajc.epn.edu.ec/index.php/LAJC",
+        "https://lajc.epn.edu.ec/index.php/LAJC/poster",
+        "https://www.facebook.com/fisepn",
+        "https://www.joomla-monster.com"
+      ],
+      "attachments": []
+    },
+    {
+      "url": "https://fis.epn.edu.ec/index.php/es/category-list/772-podio-de-innovacion",
+      "url_hash": "fd65b0647cc25559",
+      "title": "Podio de Innovación",
+      "states_captured": 1,
+      "external_links": [
+        "https://lajc.epn.edu.ec/index.php/LAJC",
+        "https://www.facebook.com/fisepn",
+        "https://www.joomla-monster.com"
+      ],
+      "attachments": []
+    },
+    {
+      "url": "https://fis.epn.edu.ec/index.php/es/category-list/792-doctorado-en-informatica-proceso-de-admision-2024-a",
+      "url_hash": "852cbd78e6d4cf70",
+      "title": "DOCTORADO EN INFORMÁTICA | Proceso de Admisión 2024-A",
+      "states_captured": 1,
+      "external_links": [
+        "https://doctoradoinformatica.epn.edu.ec",
+        "https://doctoradoinformatica.epn.edu.ec/?fbclid=IwAR3JGHfg5RnnJdyUfruFnnpfXI_9UpB45xYsqflrHN5Hm2lMqlUXMMEp4QE",
+        "https://lajc.epn.edu.ec/index.php/LAJC",
+        "https://www.facebook.com/fisepn",
+        "https://www.joomla-monster.com"
+      ],
+      "attachments": []
+    },
+    {
+      "url": "https://fis.epn.edu.ec/index.php/es/category-list/794-practicas",
+      "url_hash": "1845ea77f1ccda77",
+      "title": "Prácticas",
+      "states_captured": 1,
+      "external_links": [
+        "https://lajc.epn.edu.ec/index.php/LAJC",
+        "https://www.facebook.com/fisepn",
+        "https://www.joomla-monster.com"
+      ],
+      "attachments": []
+    },
+    {
+      "url": "https://fis.epn.edu.ec/index.php/es/category-list/798-competencia-huawei-ict-2023-2024-conexion-gloria-y-futuro",
+      "url_hash": "bc94b406a79d1740",
+      "title": "Competencia Huawei ICT 2023-2024: Conexión, Gloria y Futuro",
+      "states_captured": 1,
+      "external_links": [
+        "https://lajc.epn.edu.ec/index.php/LAJC",
+        "https://www.facebook.com/fisepn",
+        "https://www.joomla-monster.com"
+      ],
+      "attachments": []
+    },
+    {
+      "url": "https://fis.epn.edu.ec/index.php/es/category-list/805-estudiantes-de-la-epn-representaron-a-latinoamerica-en-competencia-internacional",
+      "url_hash": "5ef34a7f21be1704",
+      "title": "Estudiantes de la EPN representaron a Latinoamérica en competencia internacional",
+      "states_captured": 1,
+      "external_links": [
+        "https://lajc.epn.edu.ec/index.php/LAJC",
+        "https://www.facebook.com/fisepn",
+        "https://www.joomla-monster.com"
+      ],
+      "attachments": []
+    },
+    {
+      "url": "https://fis.epn.edu.ec/index.php/es/category-list/810-la-epn-representara-a-ecuador-en-la-huawei-ict-competition-2023-2024-latam",
+      "url_hash": "b9acd535e7ab7c00",
+      "title": "La EPN representará a Ecuador en la Huawei ICT Competition 2023 – 2024 LATAM",
+      "states_captured": 1,
+      "external_links": [
+        "https://lajc.epn.edu.ec/index.php/LAJC",
+        "https://www.facebook.com/fisepn",
+        "https://www.instagram.com/explore/tags/lapolicontigo/",
+        "https://www.instagram.com/explore/tags/primerolagente/",
+        "https://www.joomla-monster.com"
+      ],
+      "attachments": []
+    },
+    {
+      "url": "https://fis.epn.edu.ec/index.php/es/category-list/811-jisic-2024",
+      "url_hash": "ff290bd511b4d04d",
+      "title": "JISIC 2024",
+      "states_captured": 1,
+      "external_links": [
+        "https://lajc.epn.edu.ec/index.php/LAJC",
+        "https://www.facebook.com/fisepn",
+        "https://www.joomla-monster.com"
+      ],
+      "attachments": []
+    },
+    {
+      "url": "https://fis.epn.edu.ec/index.php/es/category-list/814-invitacion-bolsa-de-trabajo-epn-secure-soft-corp",
+      "url_hash": "8a388dbf994b374d",
+      "title": "INVITACIÓN | Bolsa de Trabajo EPN SECURE SOFT CORP",
+      "states_captured": 1,
+      "external_links": [
+        "https://forms.office.com/r/VCBWDfEr7J",
+        "https://lajc.epn.edu.ec/index.php/LAJC",
+        "https://www.facebook.com/fisepn",
+        "https://www.joomla-monster.com"
+      ],
+      "attachments": []
+    },
+    {
+      "url": "https://fis.epn.edu.ec/index.php/es/category-list/820-elecciones-estudiantes-cd-2024",
+      "url_hash": "bc0949c027120cf6",
+      "title": "ELECCIONES ESTUDIANTES CD-2024",
+      "states_captured": 1,
+      "external_links": [
+        "https://lajc.epn.edu.ec/index.php/LAJC",
+        "https://voto.epn.edu.ec/",
+        "https://www.facebook.com/fisepn",
+        "https://www.joomla-monster.com"
+      ],
+      "attachments": []
+    },
+    {
+      "url": "https://fis.epn.edu.ec/index.php/es/category-list/821-invitacion-jueves-cultural",
+      "url_hash": "34727d2e8ad9e12c",
+      "title": "Invitación jueves cultural",
+      "states_captured": 1,
+      "external_links": [
+        "https://lajc.epn.edu.ec/index.php/LAJC",
+        "https://www.facebook.com/fisepn",
+        "https://www.joomla-monster.com"
+      ],
+      "attachments": []
+    },
+    {
+      "url": "https://fis.epn.edu.ec/index.php/es/category-list/830-convocatoria-abierta-cfp",
+      "url_hash": "a9b57ad023cc0272",
+      "title": "Convocatoria Abierta CFP",
+      "states_captured": 1,
+      "external_links": [
+        "https://lajc.epn.edu.ec/index.php/LAJC",
+        "https://lajc.epn.edu.ec/index.php/LAJC?fbclid=IwZXh0bgNhZW0CMTAAAR0tYOPUcRXRst3nn_WqyZXoP1AQXqu5vxLYBV72CHDaHMKG6NIw5bvFTbE_aem_4RvA3ZeA5uunRy5FG2Sihg",
+        "https://www.facebook.com/fisepn",
+        "https://www.joomla-monster.com"
+      ],
+      "attachments": []
+    },
+    {
+      "url": "https://fis.epn.edu.ec/index.php/es/category-list/832-tecnico-de-investigacion-laboratorio-ada",
+      "url_hash": "5732b538f01cf967",
+      "title": "Técnico de Investigación - Laboratorio ADA",
+      "states_captured": 1,
+      "external_links": [
+        "https://lajc.epn.edu.ec/index.php/LAJC",
+        "https://www.facebook.com/fisepn",
+        "https://www.joomla-monster.com"
+      ],
+      "attachments": [
+        "https://www.epn.edu.ec/wp-content/uploads/2021/09/codificacion_directrices_contratacion_rcp_280_2019-signed.pdf"
+      ]
+    }
+  ],
+  "closed_reason": "finished",
+  "total_pages": 40
+}
